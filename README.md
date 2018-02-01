@@ -1,4 +1,5 @@
-# PROJETO DE TRADUÇÃO DO KRO/JRO PARA BRO "itemInfor.lua para pt-br" 
-# PROJETO DE TRADUÇÃO E IMPLEMENTAÇÃO DOS ITENS DE ACORDO COM O BRO "item_db e item_combo_db"
+Projeto utiliza como base o projetos do autor zackdreaver "ROenglishRE e Athena-itemDB".
+
+As implementações dos items como script e tradução são adaptadas conforme o database do Ragnarok BRO.  
 
 by: celsokayran & hederod
