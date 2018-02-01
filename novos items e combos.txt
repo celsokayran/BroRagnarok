@@ -35,6 +35,11 @@
 20853,Asas_de_Rudo,Asas de Rudo,4,0,,60,,6,,1,0xFFFFFFFF,63,2,4,,130,1,0,{ .@r = getrefine(); bonus bAspd,1; bonus bMatkRate,(.@r/2)*3; },{},{}
 28912,Escudo_Higiênico,Escudo Higiênico,4,20,,1,,0,,1,0xFFFFFFFA,63,2,32,,130,1,1,{ .@r = getrefine(); bonus2 bSubEle,Ele_Holy,20; bonus2 bSubEle,Ele_Holy,(.@r/2)*2; { autobonus "{ bonus2 bMagicAtkEle,Holy,10;}",500,3000+((getrefine()-5)*1000),BF_MAGIC; } },{},{}
 19306,Carta_de_Comodo,Carta de Comodo,4,15000,,30,,0,,0,0xFFFFFFFF,63,2,1,,80,0,1679,{ bonus bCritAtkRate,5; },{},{}
+15145,EvilDragon_Armor,Evil Dragon Armor,4,0,,400,,60,,1,0xFFFFFFFF,63,2,16,,99,1,0,{ .@r = getrefine(); bonus2 bHPDrainRate,100,(.@r>=10)?(3):((.@r>=9)?(4):((.@r>=8)?(6):(0))); bonus2 bSPDrainRate,100,(.@r>=10)?(5):((.@r>=9)?(3):((.@r>=8)?(2):(0))); /* Confirm: Success rate and it says no effect if with Rideword, Vanargandr Helm, or Piece Of Angent Skin */ },{},{}
+28492,Diário_do_Renegado,Diário do Renegado,5,0,,500,30:170,,1,2,0xFFFFFFFF,63,2,2,3,100,1,15,{ bonus bStr,5; bonus bAgi,5; bonus bInt,5; bonus bStr,getskilllv("RG_GRAFFITI")*5;  bonus bAgi,getskilllv("RG_GRAFFITI")*5; bonus bInt,getskilllv("RG_GRAFFITI")*5; if(getskilllv("SC_UNLUCKY")==3) { skill "LK_BERSERK",1; } if(getskilllv("SC_GROOMY")==3) { skill "HP_ASSUMPTIO",5; } if(getskilllv("SC_IGNORANCE")==3) { skill "WS_OVERTHRUSTMA",5; } if(getskilllv("SC_LAZINESS")==3) { skill "ASC_METEORASSAULT",5; } if(getskilllv("SC_ENERVATION")==3) { skill "SN_WINDWALK",5; } if(getskilllv("SC_WEAKNESS")==3) { skill "HW_MAGICPOWER",5; } },{},{}
+15191,Armadura_da_Khalitzburg,Armadura da Khalitzburg,4,20,,0,,0,,1,0xFFFFFFFF,63,2,16,,1,1,,{ .@r = getrefine(); bonus2 bSubRace,RC_DemiHuman,1; if ( .@r < 15 ) { bonus bLongAtkRate,(.@r/3)*6; }},{},{}
+28564,Lágrima_de_Valquíria,Lágrima de Valquíria,4,0,,30,,0,,1,0xFFFFFFFF,63,2,136,,100,0,0,{ bonus bDelayrate,-5; bonus bVariableCastrate,-10; bonus bSPrecovRate,50; bonus2 bVariableCastrate,AB_ORATIO,-50; bonus2 bMagicAddSize,Size_All,getskilllv("PR_IMPOSITIO")*3; bonus2 bSkillAtk,PR_MAGNUS,(BaseLevel/2)*3; if(getskilllv("PR_IMPOSITIO")==5) { skill "ALL_ODINS_POWER",2; } },{},{}
+
 
 
 =======================================================================> ~~~~ item_combo_db ~~~~ <=======================================================================
@@ -190,3 +195,14 @@
 =======================================================================> combo Carta de Comodo
 
 19306:5918,{ bonus bAspd,1; bonus bCritAtkRate,2; bonus2 bSubRace,RC_Player,2; bonus bCritAtkRate,(BasebDex/10)*2; if ( BF_NORMAL == (RC_All-RC_Player) ) { bonus bCriticalDef,100; } if ( BasebLuk > 107 ) { bonus bCritAtkRate,2; bonus bAspd,1; bonus2 bSubRace,RC_Player,2; } if ( BasebLuk > 119 ){ bonus bCritAtkRate,4; bonus bAspd,2; bonus2 bSubRace,RC_Player,4; autobonus "{bonus bSplashAddRange,1;}",10000,10000,BF_NORMAL; }}
+
+=======================================================================> combo dragao maligno
+
+15145:18652,{ .@r = getequiprefinerycnt(EQI_HEAD_TOP); if (.@r >= 9 ) { bonus2 bHPDrainRate,60,-8; bonus2 bSPDrainRate,20,-4; } else if (.@r >= 8 ) { bonus2 bHPDrainRate,50,-5; bonus2 bSPDrainRate,10,-2; } else if (.@r >= 7 ) { bonus2 bHPDrainRate,30,-5; bonus2 bSPDrainRate,10,-2; } else if (.@r >= 5 ) { bonus2 bHPDrainRate,10,-3; bonus2 bSPDrainRate,10,-1; } else { bonus2 bHPDrainRate,10,-1; bonus2 bSPDrainRate,10,-1; } }
+15145:5208,{ bonus2 bHPDrainRate,50,-8; bonus2 bSPDrainRate,10,-4; bonus2 bHPLossRate,-10,5000;}
+15145:2554,{ bonus2 bSPDrainRate,10,-1; }
+15145:5584,{ bonus2 bHPDrainRate,3,-15; bonus2 bSPDrainRate,1,-7;  }
+15145:18752,{ .@r = getequiprefinerycnt(EQI_HEAD_TOP); bonus2 bHPDrainRate,40,-4+(.@r/2); bonus2 bSPDrainRate,10,-1+(.@r/3); }
+15145:5585,{ bonus2 bHPDrainRate,30,-10; bonus2 bSPDrainRate,10,-5; }
+
+=======================================================================>
