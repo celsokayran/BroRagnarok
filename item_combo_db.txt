@@ -305,6 +305,7 @@
 28513:18848,{ .@r = getequiprefinerycnt(EQI_HEAD_TOP); bonus bFixedCastrate,-50;  if(.@r < 13 ) { bonus bAllStats,(.@r/3)*1; } if( .@r > 8) { bonus2 bMagicAddClass,Class_Boss,20; bonus2 bSubRace,RC_DemiHuman, 10; } if( .@r > 10) { bonus2 bMagicAddClass,Class_Boss,20; bonus2 bSubRace,RC_DemiHuman, 10; }}
 28513:18849,{ .@r = getequiprefinerycnt(EQI_HEAD_TOP); bonus bFixedCastrate,-50; bonus2 bMagicAddClass,Class_Boss,20; if(.@r < 13 ) { bonus bAllStats,(.@r/3)*1; } if( .@r > 8) { bonus2 bMagicAddClass,Class_Boss,20; } }
 2855:5360,{ bonus bCritAtkRate,10; if(getequiprefinerycnt(EQI_HEAD_TOP)>5) bonus bCritical,5; }
+28551:18823,{bonus2 bSkillAtk,"LG_CANNONSPEAR",20; bonus2 bSkillAtk,"LG_OVERBRAND",20; bonus2 bAddClass,Class_All,getskilllv("LG_OVERBRAND")*2; bonus2 bAddClass,Class_All,getskilllv("LG_CANNONSPEAR")*2; bonus2 bSkillCooldown,"LG_OVERBRAND",-2000;}
 2913:2710,{ bonus bBaseAtk,10; }
 2913:15040,{ bonus bBaseAtk,2*getequiprefinerycnt(EQI_ARMOR); }
 2913:2408,{ bonus bBaseAtk,getequiprefinerycnt(EQI_SHOES); }

@@ -15516,7 +15516,7 @@
 //-28534
 //-28535
 //-28550
-//-28551
+28551,Imperial_gloves,Imperial Gloves,,0,,40,,0,,1,0xFFFFFFFF,63,2,136,,100,,,{bonus bNoCastCancel,0; bonus bVariableCastrate,-10; bonus2 bAddClass,Class_All,5;},{},{}
 //-28552
 //-28554
 //-28555
