@@ -1040,7 +1040,7 @@
 1674,Half_BF_Staff2,Half BF Staff2,5,20,,0,70:125,,1,0,0x00818314,63,2,2,3,80,1,10,{ bonus bInt,3; bonus bDex,3; bonus2 bMagicAddRace,RC_DemiHuman,10; bonus2 bMagicAddRace,RC_Player,10; bonus3 bAddEff,Eff_Stun,200,ATF_SKILL; bonus bUnbreakableWeapon,0; },{},{}
 1675,Walking_Stick_,Gentleman's Staff,5,20,,500,40:125,,1,3,0x00818314,63,2,2,4,50,1,10,{ bonus bDex,1; },{},{}
 1676,Baculum_Daemonicum,Baculum Daemonicum,5,20,,1200,60:150,,1,2,0x00818315,63,2,2,4,80,1,10,{ bonus bAtkEle,Ele_Dark; bonus bUnbreakableWeapon,0; bonus bVariableCastrate,-10; if (BaseLevel > 99){ bonus bMatk,30; } if(getrefine() > 8){ bonus2 bResEff,Eff_Blind,3000; bonus bUseSPrate,-10; } },{},{}
-1677,Ru_Blue_Wand,Blue Wand,5,10,,0,50,,1,1,0x00000200,56,2,2,3,100,1,10,{ bonus bStr,5; bonus bInt,5; },{},{}
+1677,Ru_Blue_Wand,Blue Wand,5,10,,0,50:200,,1,1,0x00000200,56,2,2,3,100,1,10,{ bonus bDex,5; bonus bInt,5; },{},{}
 1678,Ru_Gold_Wand,Ru Gold Wand,5,0,,0,50,,1,2,0x00000200,56,2,2,3,120,1,10,{ bonus bDex,8; bonus bInt,8; },{},{}
 1679,Rafini_Staff_S,Laphine Staff,5,20,,500,30:180,,1,2,0x00818315,63,2,2,3,100,1,10,{ bonus bFixedCastRate,-getrefine(); },{},{}
 1680,Crimson_One-Handed_Staff,Crimson One-Handed Staff,5,10,,600,60:70,,1,2,0x00818315,63,2,2,3,70,1,10,{ .@r = getrefine(); bonus bInt,4; bonus bMatk,((BaseLevel/10)*5)+(.@r<=15?pow(.@r,2):225); bonus bUnbreakableWeapon,0; },{},{}
@@ -13341,7 +13341,7 @@
 //-22131
 //-22132
 //-22133
-//-22134
+22134,Enforcer_Shoes,Enforcer Shoes,4,20,,400,,12,,0,0xFFFFFFFE,63,2,64,,100,1,0,{ bonus bMaxHPrate,3; bonus bMaxSPrate,3; bonus bMdef,10; skill "BS_MAXIMIZE",1; bonus2 bSkillUseSP,"ASC_METEORASSAULT",-8; set .@r,getrefine(); if(getrefine()>=5) { bonus bMaxHPrate,7; bonus bMaxSPrate,7; bonus2 bSkillAtk,"ASC_METEORASSAULT",BaseLevel; } if(getrefine()>=7) { bonus bMaxHPrate,10; bonus bMaxSPrate,10; bonus2 bSkillAtk,"ASC_METEORASSAULT",BaseLevel; } bonus2 bAddClass,Class_All,4*getskilllv("GC_WEAPONCRUSH"); bonus2 bSkillAtk,"ASC_METEORASSAULT",30*getskilllv("AS_POISONREACT"); bonus2 bSkillCooldown,"GC_HALLUCINATIONWALK",-8000*getskilllv("GC_WEAPONBLOCKING"); bonus2 bIgnoreDefClassRate,Class_All,20*getskilllv("GC_COUNTERSLASH"); bonus2 bVariableCastrate,"ASC_METEORASSAULT",7*(getskilllv("GC_WEAPONBLOCKING")+getskilllv("GC_WEAPONCRUSH")+getskilllv("GC_COUNTERSLASH")); },{},{}
 //-22138
 //-22140
 //-22141
