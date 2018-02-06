@@ -15497,7 +15497,7 @@
 //-28511
 28513,Celine_Brooch,Celine_Brooch,4,0,,50,,0,,1,0xFFFFFFFF,63,2,136,,100,0,0,{ bonus bMaxHP, 500; bonus bMaxSP,250; bonus bMatkRate,5; bonus bVariableCastrate,-10; bonus bAspd,1; },{},{}
 //-28514
-//-28517
+28517,Anel_Abissal,Anel do Rei Abissal,,0,,10,,0,,1,0xFFFFFFFF,63,2,136,,130,,,{bonus2 bAddClass,Class_All,6; bonus bAgi, 1; bonus bStr, 2; bonus2 bSkillAtk,"GC_ROLLINGCUTTER",(((BaseLevel)/3)*1); bonus2 bSkillAtk,"GC_CROSSRIPPERSLASHER",(((BaseLevel)/10)*1);},{},{}
 //-28518
 //-28519
 //-28520
