@@ -39,7 +39,7 @@
 28492,Diário_do_Renegado,Diário do Renegado,5,0,,500,30:170,,1,2,0xFFFFFFFF,63,2,2,3,100,1,15,{ bonus bStr,5; bonus bAgi,5; bonus bInt,5; bonus bStr,getskilllv("RG_GRAFFITI")*5;  bonus bAgi,getskilllv("RG_GRAFFITI")*5; bonus bInt,getskilllv("RG_GRAFFITI")*5; if(getskilllv("SC_UNLUCKY")==3) { skill "LK_BERSERK",1; } if(getskilllv("SC_GROOMY")==3) { skill "HP_ASSUMPTIO",5; } if(getskilllv("SC_IGNORANCE")==3) { skill "WS_OVERTHRUSTMA",5; } if(getskilllv("SC_LAZINESS")==3) { skill "ASC_METEORASSAULT",5; } if(getskilllv("SC_ENERVATION")==3) { skill "SN_WINDWALK",5; } if(getskilllv("SC_WEAKNESS")==3) { skill "HW_MAGICPOWER",5; } },{},{}
 15191,Armadura_da_Khalitzburg,Armadura da Khalitzburg,4,20,,0,,0,,1,0xFFFFFFFF,63,2,16,,1,1,,{ .@r = getrefine(); bonus2 bSubRace,RC_DemiHuman,1; if ( .@r < 15 ) { bonus bLongAtkRate,(.@r/3)*6; }},{},{}
 28564,Lágrima_de_Valquíria,Lágrima de Valquíria,4,0,,30,,0,,1,0xFFFFFFFF,63,2,136,,100,0,0,{ bonus bDelayrate,-5; bonus bVariableCastrate,-10; bonus bSPrecovRate,50; bonus2 bVariableCastrate,AB_ORATIO,-50; bonus2 bMagicAddSize,Size_All,getskilllv("PR_IMPOSITIO")*3; bonus2 bSkillAtk,PR_MAGNUS,(BaseLevel/2)*3; if(getskilllv("PR_IMPOSITIO")==5) { skill "ALL_ODINS_POWER",2; } },{},{}
-
+28517,Anel_Abissal,Anel do Rei Abissal,,0,,10,,0,,1,0xFFFFFFFF,63,2,136,,130,,,{bonus2 bAddClass,Class_All,6; bonus bAgi, 1; bonus bStr, 2; bonus2 bSkillAtk,"GC_ROLLINGCUTTER",(((BaseLevel)/3)*1); bonus2 bSkillAtk,"GC_CROSSRIPPERSLASHER",(((BaseLevel)/10)*1);},{},{}
 
 
 =======================================================================> ~~~~ item_combo_db ~~~~ <=======================================================================
