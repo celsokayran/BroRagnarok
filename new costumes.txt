@@ -4,3 +4,4 @@
 
 31299,C_White_Rabbit,Costume White Rabbit,4,0,,0,,0,,0,0xFFFFFFFF,63,2,2048,,1,0,1656,{},{},{}
 19291,C_Doge_Fofinho,Costume Doge Fofinho,4,0,,0,,0,,0,0xFFFFFFFF,63,2,2048,,1,0,1669,{},{},{}
+31455,C_Enchanted_Dog,Costume Enchanted Dog,4,0,,0,,,,0,0xFFFFFFFF,63,2,6144,,1,0,1718,{},{},{}
