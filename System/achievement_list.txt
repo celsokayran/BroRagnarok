@@ -55,7 +55,7 @@ achievement_tbl = {
 	},
 	[120001] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Prontera(1)",
@@ -75,7 +75,7 @@ achievement_tbl = {
 	},
 	[120002] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Prontera(2)",
@@ -95,7 +95,7 @@ achievement_tbl = {
 	},
 	[120003] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Prontera(3)",
@@ -115,7 +115,7 @@ achievement_tbl = {
 	},
 	[120004] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo oeste de Prontera(1)",
@@ -135,7 +135,7 @@ achievement_tbl = {
 	},
 	[120005] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo oeste de Prontera(2)",
@@ -155,7 +155,7 @@ achievement_tbl = {
 	},
 	[120006] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo leste de Prontera",
@@ -175,7 +175,7 @@ achievement_tbl = {
 	},
 	[120007] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Prontera(1)",
@@ -195,7 +195,7 @@ achievement_tbl = {
 	},
 	[120008] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Prontera(2)",
@@ -215,7 +215,7 @@ achievement_tbl = {
 	},
 	[120009] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Prontera(3)",
@@ -235,7 +235,7 @@ achievement_tbl = {
 	},
 	[120010] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Prontera(4)",
@@ -255,7 +255,7 @@ achievement_tbl = {
 	},
 	[120011] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo leste de Geffen",
@@ -275,7 +275,7 @@ achievement_tbl = {
 	},
 	[120012] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sudeste de Geffen",
@@ -295,7 +295,7 @@ achievement_tbl = {
 	},
 	[120013] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo noroeste de Geffen(1)",
@@ -315,7 +315,7 @@ achievement_tbl = {
 	},
 	[120014] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo noroeste de Geffen(2)",
@@ -335,7 +335,7 @@ achievement_tbl = {
 	},
 	[120015] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo noroeste de Geffen(3)",
@@ -355,7 +355,7 @@ achievement_tbl = {
 	},
 	[120016] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Geffen(1)",
@@ -375,7 +375,7 @@ achievement_tbl = {
 	},
 	[120017] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Geffen(2)",
@@ -395,7 +395,7 @@ achievement_tbl = {
 	},
 	[120018] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o deserto de Sograt(1)",
@@ -415,7 +415,7 @@ achievement_tbl = {
 	},
 	[120019] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o deserto de Sograt(2)",
@@ -435,7 +435,7 @@ achievement_tbl = {
 	},
 	[120020] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o deserto de Sograt(3)",
@@ -455,7 +455,7 @@ achievement_tbl = {
 	},
 	[120021] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o deserto de Sograt(4)",
@@ -475,7 +475,7 @@ achievement_tbl = {
 	},
 	[120022] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o deserto de Sograt(5)",
@@ -495,7 +495,7 @@ achievement_tbl = {
 	},
 	[120023] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o deserto de Sograt(6)",
@@ -515,7 +515,7 @@ achievement_tbl = {
 	},
 	[120024] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo Sudoeste de Payon(1)",
@@ -535,7 +535,7 @@ achievement_tbl = {
 	},
 	[120025] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo Sudoeste de Payon(2)",
@@ -555,7 +555,7 @@ achievement_tbl = {
 	},
 	[120026] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo Sudoeste de Payon(3)",
@@ -575,7 +575,7 @@ achievement_tbl = {
 	},
 	[120027] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo Sudoeste de Payon(4)",
@@ -595,7 +595,7 @@ achievement_tbl = {
 	},
 	[120028] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo leste de Payon(1)",
@@ -615,7 +615,7 @@ achievement_tbl = {
 	},
 	[120029] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo leste de Payon(2)",
@@ -635,7 +635,7 @@ achievement_tbl = {
 	},
 	[120030] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo leste de Payon(3)",
@@ -655,7 +655,7 @@ achievement_tbl = {
 	},
 	[120031] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo leste de Payon(4)",
@@ -675,7 +675,7 @@ achievement_tbl = {
 	},
 	[120032] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Mjolnir(1)",
@@ -695,7 +695,7 @@ achievement_tbl = {
 	},
 	[120033] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Mjolnir(2)",
@@ -715,7 +715,7 @@ achievement_tbl = {
 	},
 	[120034] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Mjolnir(3)",
@@ -735,7 +735,7 @@ achievement_tbl = {
 	},
 	[120035] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Mjolnir(4)",
@@ -755,7 +755,7 @@ achievement_tbl = {
 	},
 	[120036] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo norte de Mjolnir(5)",
@@ -775,7 +775,7 @@ achievement_tbl = {
 	},
 	[120037] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Mjolnir(1)",
@@ -795,7 +795,7 @@ achievement_tbl = {
 	},
 	[120038] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Mjolnir(2)",
@@ -815,7 +815,7 @@ achievement_tbl = {
 	},
 	[120039] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Mjolnir(3)",
@@ -835,7 +835,7 @@ achievement_tbl = {
 	},
 	[120040] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Mjolnir(4)",
@@ -855,7 +855,7 @@ achievement_tbl = {
 	},
 	[120041] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Mjolnir(5)",
@@ -875,7 +875,7 @@ achievement_tbl = {
 	},
 	[120042] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Mjolnir(6)",
@@ -895,7 +895,7 @@ achievement_tbl = {
 	},
 	[120043] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore o campo sul de Aldebaran",
@@ -915,7 +915,7 @@ achievement_tbl = {
 	},
 	[120044] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(1)",
@@ -935,7 +935,7 @@ achievement_tbl = {
 	},
 	[120045] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(2)",
@@ -955,7 +955,7 @@ achievement_tbl = {
 	},
 	[120046] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(3)",
@@ -975,7 +975,7 @@ achievement_tbl = {
 	},
 	[120047] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(4)",
@@ -995,7 +995,7 @@ achievement_tbl = {
 	},
 	[120048] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(5)",
@@ -1015,7 +1015,7 @@ achievement_tbl = {
 	},
 	[120049] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(6)",
@@ -1035,7 +1035,7 @@ achievement_tbl = {
 	},
 	[120050] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(7)",
@@ -1055,7 +1055,7 @@ achievement_tbl = {
 	},
 	[120051] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Explore os campos de Comodo(8)",
@@ -1075,7 +1075,7 @@ achievement_tbl = {
 	},
 	[120052] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore os pontos de verificação na fronteira(1)",
@@ -1095,7 +1095,7 @@ achievement_tbl = {
 	},
 	[120053] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore os pontos de verificação na fronteira(2)",
@@ -1115,7 +1115,7 @@ achievement_tbl = {
 	},
 	[120054] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore campo da mansão de Kiel Hyre",
@@ -1135,7 +1135,7 @@ achievement_tbl = {
 	},
 	[120055] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo de El Mes Plateau(1)",
@@ -1155,7 +1155,7 @@ achievement_tbl = {
 	},
 	[120056] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo de El Mes Plateau(2)",
@@ -1175,7 +1175,7 @@ achievement_tbl = {
 	},
 	[120057] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo de El Mes Plateau(3)",
@@ -1195,7 +1195,7 @@ achievement_tbl = {
 	},
 	[120058] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo do desfiladeiro",
@@ -1215,7 +1215,7 @@ achievement_tbl = {
 	},
 	[120059] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo da academia de Kiel Hyre",
@@ -1235,7 +1235,7 @@ achievement_tbl = {
 	},
 	[120060] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo do acampamento de guarda",
@@ -1255,7 +1255,7 @@ achievement_tbl = {
 	},
 	[120061] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "explore o campo de Yuno",
@@ -1275,7 +1275,7 @@ achievement_tbl = {
 	},
 	[120062] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo frente a torre de Thanatos",
@@ -1295,7 +1295,7 @@ achievement_tbl = {
 	},
 	[120063] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo de Hugel(1)",
@@ -1315,7 +1315,7 @@ achievement_tbl = {
 	},
 	[120064] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo de Hugel(2)",
@@ -1335,7 +1335,7 @@ achievement_tbl = {
 	},
 	[120065] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo de Hugel(3)",
@@ -1355,7 +1355,7 @@ achievement_tbl = {
 	},
 	[120066] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Explore o campo do lago do abismo(1)",
@@ -1375,17 +1375,17 @@ achievement_tbl = {
 	},
 	[120067] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(1)",
+		title = "Explore o campo de Einbroch(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1395,17 +1395,17 @@ achievement_tbl = {
 	},
 	[120068] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(2)",
+		title = "Explore o campo de Einbroch(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1415,17 +1415,17 @@ achievement_tbl = {
 	},
 	[120069] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(3)",
+		title = "Explore o campo de Einbroch(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1435,17 +1435,17 @@ achievement_tbl = {
 	},
 	[120070] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(4)",
+		title = "Explore o campo de Einbroch(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1455,17 +1455,17 @@ achievement_tbl = {
 	},
 	[120071] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(5)",
+		title = "Explore o campo de Einbroch(5)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1475,17 +1475,17 @@ achievement_tbl = {
 	},
 	[120072] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(6)",
+		title = "Explore o campo de Einbroch(6)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1495,17 +1495,17 @@ achievement_tbl = {
 	},
 	[120073] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(7)",
+		title = "Explore o campo de Einbroch(7)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1515,17 +1515,17 @@ achievement_tbl = {
 	},
 	[120074] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(8)",
+		title = "Explore o campo de Einbroch(8)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Einbroch field",
+			details = "Descubra o tesouro que envolve o campo de Einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Descubra o tesouro que envolve o campo de Einbroch",
 			},
 		},
 		reward = {
@@ -1535,17 +1535,17 @@ achievement_tbl = {
 	},
 	[120075] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Field Exploration(1)",
+		title = "Explore o campo de Lighthalzen(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding lighthalzen field",
+			details = "Descubra o tesouro ao redor do campo de Lighthalzen",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding lighthalzen field",
+				text = "Descubra o tesouro ao redor do campo de Lighthalzen",
 			},
 		},
 		reward = {
@@ -1555,17 +1555,17 @@ achievement_tbl = {
 	},
 	[120076] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Field Exploration(2)",
+		title = "Explore o campo de Lighthalzen(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding lighthalzen field",
+			details = "Descubra o tesouro ao redor do campo de Lighthalzen",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding lighthalzen field",
+				text = "Descubra o tesouro ao redor do campo de Lighthalzen",
 			},
 		},
 		reward = {
@@ -1575,17 +1575,17 @@ achievement_tbl = {
 	},
 	[120077] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Field Exploration(3)",
+		title = "Explore o campo de Lighthalzen(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding lighthalzen field",
+			details = "Descubra o tesouro ao redor do campo de Lighthalzen",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding lighthalzen field",
+				text = "Descubra o tesouro ao redor do campo de Lighthalzen",
 			},
 		},
 		reward = {
@@ -1595,17 +1595,17 @@ achievement_tbl = {
 	},
 	[120078] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Audhumbla Plains Field Exploration(1)",
+		title = "Explore o campo na planicies de Rachel Audhumbla(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel audhumbla plains field",
+			details = "Descubra o tesouro em torno do campo nas planicies de rachel audhumbla",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel audhumbla plains field",
+				text = "Descubra o tesouro em torno do campo nas planicies de rachel audhumbla",
 			},
 		},
 		reward = {
@@ -1615,17 +1615,17 @@ achievement_tbl = {
 	},
 	[120079] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Plains Field Exploration(1)",
+		title = "Explore o campo nas planicies de Rachel(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel plains field",
+			details = "Descubra o tesouro que envolve o campo das rachel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel plains field",
+				text = "Descubra o tesouro que envolve o campo das rachel",
 			},
 		},
 		reward = {
@@ -1635,17 +1635,17 @@ achievement_tbl = {
 	},
 	[120080] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Plains Field Exploration(2)",
+		title = "Explore o campo nas planicies de Rachel(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel plains field",
+			details = "Descubra o tesouro que envolve o campo das rachel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel plains field",
+				text = "Descubra o tesouro que envolve o campo das rachel",
 			},
 		},
 		reward = {
@@ -1655,17 +1655,17 @@ achievement_tbl = {
 	},
 	[120081] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Plains Field Exploration(3)",
+		title = "Explore o campo nas planicies de Rachel(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel plains field",
+			details = "Descubra o tesouro que envolve o campo das rachel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel plains field",
+				text = "Descubra o tesouro que envolve o campo das rachel",
 			},
 		},
 		reward = {
@@ -1675,17 +1675,17 @@ achievement_tbl = {
 	},
 	[120082] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Audhumbla Grassland Field Exploration(1)",
+		title = "Explore o campo de postagem de Rachel Audhumbla(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel audhumbla grassland field",
+			details = "Descubra o tesouro que circunda o campo de pastagem de rachel audhumbla",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel audhumbla grassland field",
+				text = "Descubra o tesouro que circunda o campo de pastagem de rachel audhumbla",
 			},
 		},
 		reward = {
@@ -1695,17 +1695,17 @@ achievement_tbl = {
 	},
 	[120083] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Audhumbla Grassland Field Exploration(2)",
+		title = "Explore o campo de postagem de Rachel Audhumbla(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel audhumbla grassland field",
+			details = "Descubra o tesouro que circunda o campo de pastagem de rachel audhumbla",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel audhumbla grassland field",
+				text = "Descubra o tesouro que circunda o campo de pastagem de rachel audhumbla",
 			},
 		},
 		reward = {
@@ -1715,17 +1715,17 @@ achievement_tbl = {
 	},
 	[120084] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Portus Luna Field Exploration",
+		title = "Explore o campo de Portus",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding portus luna field",
+			details = "Descubra o tesouro em torno do campo Portus Luna",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding portus luna field",
+				text = "Descubra o tesouro em torno do campo Portus Luna",
 			},
 		},
 		reward = {
@@ -1735,17 +1735,17 @@ achievement_tbl = {
 	},
 	[120085] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(1)",
+		title = "Explore o campo de Veins(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding veins field",
+			details = "Descubra o campo das veias vizinhas do tesouro",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Descubra o campo das veias vizinhas do tesouro",
 			},
 		},
 		reward = {
@@ -1755,17 +1755,17 @@ achievement_tbl = {
 	},
 	[120086] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(2)",
+		title = "Explore o campo de Veins(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding veins field",
+			details = "Descubra o campo das veias vizinhas do tesouro",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Descubra o campo das veias vizinhas do tesouro",
 			},
 		},
 		reward = {
@@ -1775,17 +1775,17 @@ achievement_tbl = {
 	},
 	[120087] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(3)",
+		title = "Explore o campo de Veins(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding veins field",
+			details = "Descubra o campo das veias vizinhas do tesouro",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Descubra o campo das veias vizinhas do tesouro",
 			},
 		},
 		reward = {
@@ -1795,17 +1795,17 @@ achievement_tbl = {
 	},
 	[120088] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(4)",
+		title = "Explore o campo de Veins(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding veins field",
+			details = "Descubra o campo das veias vizinhas do tesouro",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Descubra o campo das veias vizinhas do tesouro",
 			},
 		},
 		reward = {
@@ -1815,17 +1815,17 @@ achievement_tbl = {
 	},
 	[120089] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(5)",
+		title = "Explore o campo de Veins(5)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding veins field",
+			details = "Descubra o campo das veias vizinhas do tesouro",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Descubra o campo das veias vizinhas do tesouro",
 			},
 		},
 		reward = {
@@ -1835,17 +1835,17 @@ achievement_tbl = {
 	},
 	[120090] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Eclage Field Exploration",
+		title = "Explore o campo de Eclage",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding eclage field",
+			details = "Descubra o tesouro ao redor do campo de eclage",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding eclage field",
+				text = "Descubra o tesouro ao redor do campo de eclage",
 			},
 		},
 		reward = {
@@ -1855,10 +1855,10 @@ achievement_tbl = {
 	},
 	[120091] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "North Bitfrost Field Exploration(1)",
+		title = "Explore o campo norte de Bitfrost(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
 			details = "Discover the treasure surrounding north bitfrost field",
@@ -1875,17 +1875,17 @@ achievement_tbl = {
 	},
 	[120092] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "South Bitfrost Field Exploration(1)",
+		title = "Explore o campo sul de Bitfrost(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south bitfrost field",
+			details = "Descubra o tesouro que circunda o sul de bitfrost",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south bitfrost field",
+				text = "Descubra o tesouro que circunda o sul de bitfrost",
 			},
 		},
 		reward = {
@@ -1895,17 +1895,17 @@ achievement_tbl = {
 	},
 	[120093] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Splendide Field Exploration(1)",
+		title = "Explore o campo de Splendide(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding splendide field",
+			details = "Descubra o tesouro que envolve o esplêndido campo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding splendide field",
+				text = "Descubra o tesouro que envolve o esplêndido campo",
 			},
 		},
 		reward = {
@@ -1915,17 +1915,17 @@ achievement_tbl = {
 	},
 	[120094] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Splendide Field Exploration(2)",
+		title = "Explore o campo de Splendide(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding splendide field",
+			details = "Descubra o tesouro que envolve o esplêndido campo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding splendide field",
+				text = "Descubra o tesouro que envolve o esplêndido campo",
 			},
 		},
 		reward = {
@@ -1935,17 +1935,17 @@ achievement_tbl = {
 	},
 	[120095] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Splendide Field Exploration(3)",
+		title = "Explore o campo de Splendide(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding splendide field",
+			details = "Descubra o tesouro que envolve o esplêndido campo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding splendide field",
+				text = "Descubra o tesouro que envolve o esplêndido campo",
 			},
 		},
 		reward = {
@@ -1955,17 +1955,17 @@ achievement_tbl = {
 	},
 	[120096] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Manuk Field Exploration(1)",
+		title = "Explore o campo de Manuk(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding manuk field",
+			details = "Descubra o tesouro em torno do campo Manuk",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding manuk field",
+				text = "Descubra o tesouro em torno do campo Manuk",
 			},
 		},
 		reward = {
@@ -1975,17 +1975,17 @@ achievement_tbl = {
 	},
 	[120097] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Manuk Field Exploration(2)",
+		title = "Explore o campo de Manuk(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding manuk field",
+			details = "Descubra o tesouro em torno do campo Manuk",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding manuk field",
+				text = "Descubra o tesouro em torno do campo Manuk",
 			},
 		},
 		reward = {
@@ -1995,17 +1995,17 @@ achievement_tbl = {
 	},
 	[120098] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Manuk Field Exploration(3)",
+		title = "Explore o campo de Manuk(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding manuk field",
+			details = "Descubra o tesouro em torno do campo Manuk",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding manuk field",
+				text = "Descubra o tesouro em torno do campo Manuk",
 			},
 		},
 		reward = {
@@ -2015,17 +2015,17 @@ achievement_tbl = {
 	},
 	[120099] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Outskirts of Kamidal Field Exploration(1)",
+		title = "Explore os aredores do campo de Kamidal(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding outskirts of kamidal field",
+			details = "Descubra o tesouro ao redor dos arredores do campo de kamidal",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding outskirts of kamidal field",
+				text = "Descubra o tesouro ao redor dos arredores do campo de kamidal",
 			},
 		},
 		reward = {
@@ -2035,17 +2035,17 @@ achievement_tbl = {
 	},
 	[120100] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Outskirts of Kamidal Field Exploration(2)",
+		title = "Explore os aredores do campo de Kamidal(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding outskirts of kamidal field",
+			details = "Descubra o tesouro ao redor dos arredores do campo de kamidal",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding outskirts of kamidal field",
+				text = "Descubra o tesouro ao redor dos arredores do campo de kamidal",
 			},
 		},
 		reward = {
@@ -2055,17 +2055,17 @@ achievement_tbl = {
 	},
 	[120101] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Amatsu Field Exploration",
+		title = "Explore os campos de Amatsu",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding amatsu field",
+			details = "Descubra o tesouro em torno do campo de amatsu",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding amatsu field",
+				text = "Descubra o tesouro em torno do campo de amatsu",
 			},
 		},
 		reward = {
@@ -2075,17 +2075,17 @@ achievement_tbl = {
 	},
 	[120102] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Kunlun Field Exploration",
+		title = "Explore os campos de Kunlun",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding kunlun field",
+			details = "Descubra o tesouro que circunda o campo de kunlun",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kunlun field",
+				text = "Descubra o tesouro que circunda o campo de kunlun",
 			},
 		},
 		reward = {
@@ -2095,17 +2095,17 @@ achievement_tbl = {
 	},
 	[120103] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
 		title = "Gonryun Field Exploration",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding gonryun field",
+			details = "Descubra o tesouro ao redor do campo de gonryun",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding gonryun field",
+				text = "Descubra o tesouro ao redor do campo de gonryun",
 			},
 		},
 		reward = {
@@ -2115,17 +2115,17 @@ achievement_tbl = {
 	},
 	[120104] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Ayothaya Field Exploration",
+		title = "Explore o campo de Ayothaya",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding ayothaya field",
+			details = "Descubra o tesouro ao redor do campo de ayothaya",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding ayothaya field",
+				text = "Descubra o tesouro ao redor do campo de ayothaya",
 			},
 		},
 		reward = {
@@ -2135,17 +2135,17 @@ achievement_tbl = {
 	},
 	[120105] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Moscovia Field Exploration",
+		title = "Explore o campo de Moscovia",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding moscovia field",
+			details = "Descubra o tesouro ao redor do campo de moscovia",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding moscovia field",
+				text = "Descubra o tesouro ao redor do campo de moscovia",
 			},
 		},
 		reward = {
@@ -2155,17 +2155,17 @@ achievement_tbl = {
 	},
 	[120106] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Brasilis Field Exploration",
+		title = "Explore o campo de Brasilis",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding brasilis field",
+			details = "Descubra o tesouro em torno do campo brasilis",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding brasilis field",
+				text = "Descubra o tesouro em torno do campo brasilis",
 			},
 		},
 		reward = {
@@ -2175,17 +2175,17 @@ achievement_tbl = {
 	},
 	[120107] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Dewata Field Exploration",
+		title = "Explore o campo de Dewata",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding dewata field",
+			details = "Descubra o tesouro em torno do campo de dewata",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding dewata field",
+				text = "Descubra o tesouro em torno do campo de dewata",
 			},
 		},
 		reward = {
@@ -2195,17 +2195,17 @@ achievement_tbl = {
 	},
 	[120108] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Malaya Field Exploration(1)",
+		title = "Explore o campo de Malaya(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding malaya field",
+			details = "Descubra o tesouro em torno do campo da malaya",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding malaya field",
+				text = "Descubra o tesouro em torno do campo da malaya",
 			},
 		},
 		reward = {
@@ -2215,17 +2215,17 @@ achievement_tbl = {
 	},
 	[120109] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Malaya Field Exploration(2)",
+		title = "Explore o campo de Malaya(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding malaya field",
+			details = "Descubra o tesouro em torno do campo da malaya",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding malaya field",
+				text = "Descubra o tesouro em torno do campo da malaya",
 			},
 		},
 		reward = {
@@ -2235,17 +2235,17 @@ achievement_tbl = {
 	},
 	[120110] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Abbey Underground Dungeon Exploration",
+		title = "Explore as masmorras subterrâneas do campo de Abbey",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding abbey underground dungeon",
+			details = "Descubra o tesouro em torno das masmorras subterrâneas do campo de Abbey",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abbey underground dungeon",
+				text = "Descubra o tesouro em torno das masmorras subterrâneas do campo de Abbey",
 			},
 		},
 		reward = {
@@ -2255,17 +2255,17 @@ achievement_tbl = {
 	},
 	[120111] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Abyss Lake Dungeon Exploration",
+		title = "Explore as masmorras do lago do abismo",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding abyss lake dungeon",
+			details = "Descubra o tesouro em torno das masmorras do lago do abismo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abyss lake dungeon",
+				text = "Descubra o tesouro em torno das masmorras do lago do abismo",
 			},
 		},
 		reward = {
@@ -2275,17 +2275,17 @@ achievement_tbl = {
 	},
 	[120112] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Clock Tower Dungeon Exploration",
+		title = "Explore o calabouço da torre do relógio",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding clock tower dungeon",
+			details = "Descubra o tesouro em torno do calabouço da torre do relógio",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding clock tower dungeon",
+				text = "Descubra o tesouro em torno do calabouço da torre do relógio",
 			},
 		},
 		reward = {
@@ -2295,17 +2295,17 @@ achievement_tbl = {
 	},
 	[120113] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Amatsu Dungeon Exploration",
+		title = "Explore o calabouço de Amatsu",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding amatsu dungeon",
+			details = "Descubra o tesouro em torno do calabouço de Amatsu",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding amatsu dungeon",
+				text = "Descubra o tesouro em torno do calabouço de Amatsu",
 			},
 		},
 		reward = {
@@ -2315,17 +2315,17 @@ achievement_tbl = {
 	},
 	[120114] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Ant Hell Dungeon Exploration",
+		title = "Explore o calabouço de Ant Hell",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding ant hell dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço de ant hell",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding ant hell dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço de ant hell",
 			},
 		},
 		reward = {
@@ -2335,17 +2335,17 @@ achievement_tbl = {
 	},
 	[120115] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Ayothaya Dungeon Exploration",
+		title = "Explore o calabouço de Ayothaya",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding ayothaya dungeon",
+			details = "Descubra o tesouro em torno do calabouço de ayothaya",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding ayothaya dungeon",
+				text = "Descubra o tesouro em torno do calabouço de ayothaya",
 			},
 		},
 		reward = {
@@ -2355,17 +2355,17 @@ achievement_tbl = {
 	},
 	[120116] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Comodo Dungeon Exploration",
+		title = "Explore o calabouço de Comodo",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo dungeon",
+			details = "Descubra o tesouro ao redor do calabouço comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo dungeon",
+				text = "Descubra o tesouro ao redor do calabouço comodo",
 			},
 		},
 		reward = {
@@ -2375,17 +2375,17 @@ achievement_tbl = {
 	},
 	[120117] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Brasilis Dungeon Exploration",
+		title = "Explore o calabouço de Brasilis",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding brasilis dungeon",
+			details = "Descubra o tesouro que rodea o calabouço de brasilis",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding brasilis dungeon",
+				text = "Descubra o tesouro que rodea o calabouço de brasilis",
 			},
 		},
 		reward = {
@@ -2395,17 +2395,17 @@ achievement_tbl = {
 	},
 	[120118] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Clock Tower Dungeon Exploration",
+		title = "Explore o calabouço da torre do relogío",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding clock tower dungeon",
+			details = "Descubra o tesouro em torno da torre do relógio da calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding clock tower dungeon",
+				text = "Descubra o tesouro em torno da torre do relógio da calabouço",
 			},
 		},
 		reward = {
@@ -2415,17 +2415,17 @@ achievement_tbl = {
 	},
 	[120119] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Istana Dungeon Exploration",
+		title = "Explore o calabouço de Istana",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding istana dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço de istana",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding istana dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço de istana",
 			},
 		},
 		reward = {
@@ -2435,17 +2435,17 @@ achievement_tbl = {
 	},
 	[120120] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Scaraba Hole Dungeon Exploration",
+		title = "Explore o buraco do calabouço de escaravelho",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding scaraba hole dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço do escaravelho",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding scaraba hole dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço do escaravelho",
 			},
 		},
 		reward = {
@@ -2455,17 +2455,17 @@ achievement_tbl = {
 	},
 	[120121] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Bitfrost Dungeon Exploration",
+		title = "Explore o calabouço de Bitfrost",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding bitfrost dungeon",
+			details = "Descubra o tesouro em torno do calabouço de bitfrost",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding bitfrost dungeon",
+				text = "Descubra o tesouro em torno do calabouço de bitfrost",
 			},
 		},
 		reward = {
@@ -2475,17 +2475,17 @@ achievement_tbl = {
 	},
 	[120122] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Einbroch Dungeon Exploration",
+		title = "Explore o calabouço de Einbroch",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding einbroch dungeon",
+			details = "Descubra o tesouro em torno do calabouço einbroch",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding einbroch dungeon",
+				text = "Descubra o tesouro em torno do calabouço einbroch",
 			},
 		},
 		reward = {
@@ -2495,17 +2495,17 @@ achievement_tbl = {
 	},
 	[120123] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Geffen Underground Dungeon Exploration",
+		title = "Explore as masmorras subterrânea de Geffen",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding geffen underground dungeon",
+			details = "Descubra o tesouro que circunda a masmorra subterrânea geffen",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding geffen underground dungeon",
+				text = "Descubra o tesouro que circunda a masmorra subterrânea geffen",
 			},
 		},
 		reward = {
@@ -2515,7 +2515,7 @@ achievement_tbl = {
 	},
 	[120124] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(1)",
@@ -2535,7 +2535,7 @@ achievement_tbl = {
 	},
 	[120125] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(2)",
@@ -2555,7 +2555,7 @@ achievement_tbl = {
 	},
 	[120126] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(3)",
@@ -2575,7 +2575,7 @@ achievement_tbl = {
 	},
 	[120127] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(4)",
@@ -2595,7 +2595,7 @@ achievement_tbl = {
 	},
 	[120128] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Kunlun Dungeon Exploration",
@@ -2615,7 +2615,7 @@ achievement_tbl = {
 	},
 	[120129] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Rachel Dungeon Exploration",
@@ -2635,7 +2635,7 @@ achievement_tbl = {
 	},
 	[120130] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Sphinx Dungeon Exploration",
@@ -2655,7 +2655,7 @@ achievement_tbl = {
 	},
 	[120131] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Izlude Dungeon Exploration",
@@ -2675,7 +2675,7 @@ achievement_tbl = {
 	},
 	[120132] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Robot Factory Dungeon Exploration",
@@ -2695,7 +2695,7 @@ achievement_tbl = {
 	},
 	[120133] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Bio Lab Dungeon Exploration",
@@ -2715,7 +2715,7 @@ achievement_tbl = {
 	},
 	[120134] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Gonryun Dungeon Exploration",
@@ -2735,7 +2735,7 @@ achievement_tbl = {
 	},
 	[120135] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Nogg Road Dungeon Exploration",
@@ -2755,7 +2755,7 @@ achievement_tbl = {
 	},
 	[120136] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Coal Mine Dungeon Exploration",
@@ -2775,7 +2775,7 @@ achievement_tbl = {
 	},
 	[120137] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Pyramid Dungeon Exploration",
@@ -2795,7 +2795,7 @@ achievement_tbl = {
 	},
 	[120138] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Orc Dungeon Exploration",
@@ -2815,7 +2815,7 @@ achievement_tbl = {
 	},
 	[120139] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Payon Dungeon Exploration",
@@ -2835,7 +2835,7 @@ achievement_tbl = {
 	},
 	[120140] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Labyrinth Dungeon Exploration",
@@ -2855,7 +2855,7 @@ achievement_tbl = {
 	},
 	[120141] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Undersea Tunnel Dungeon Exploration",
@@ -2875,7 +2875,7 @@ achievement_tbl = {
 	},
 	[120142] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Thanatos Tower Dungeon Exploration",
@@ -2895,7 +2895,7 @@ achievement_tbl = {
 	},
 	[120143] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Thor Volcano Dungeon Exploration",
@@ -2915,7 +2915,7 @@ achievement_tbl = {
 	},
 	[120144] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Sunken Ship Dungeon Exploration",
@@ -2935,7 +2935,7 @@ achievement_tbl = {
 	},
 	[120145] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Turtle Dungeon Exploration",
@@ -2955,7 +2955,7 @@ achievement_tbl = {
 	},
 	[120146] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
 		title = "Toy Factory Dungeon Exploration",
@@ -4288,7 +4288,7 @@ achievement_tbl = {
 	},
 	[129001] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Prontera Explorer",
@@ -4345,7 +4345,7 @@ achievement_tbl = {
 	},
 	[129002] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Geffen Explorer",
@@ -4390,7 +4390,7 @@ achievement_tbl = {
 	},
 	[129003] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Sograt Desert Explorer",
@@ -4431,7 +4431,7 @@ achievement_tbl = {
 	},
 	[129004] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Payon Explorer",
@@ -4480,7 +4480,7 @@ achievement_tbl = {
 	},
 	[129005] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "North Mjolnir Explorer",
@@ -4517,7 +4517,7 @@ achievement_tbl = {
 	},
 	[129006] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "South Mjolnir Explorer",
@@ -4562,7 +4562,7 @@ achievement_tbl = {
 	},
 	[129007] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Comodo Explorer",
@@ -4611,7 +4611,7 @@ achievement_tbl = {
 	},
 	[129008] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
 		title = "Rune Midgard Explorer",
@@ -4656,7 +4656,7 @@ achievement_tbl = {
 	},
 	[129009] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Yuno Explorer",
@@ -4694,7 +4694,7 @@ achievement_tbl = {
 				shortcut = 120058,
 			},
 			[8] = {
-				text = ""Explore o campo da academia de Kiel Hyre(1) completed",
+				text = "Explore o campo da academia de Kiel Hyre(1) completed",
 				shortcut = 120059,
 			},
 			[9] = {
@@ -4713,7 +4713,7 @@ achievement_tbl = {
 	},
 	[129010] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Hugel Explorer",
@@ -4750,7 +4750,7 @@ achievement_tbl = {
 	},
 	[129011] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Einbroch Explorer",
@@ -4760,35 +4760,35 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Einbroch Field Exploration(1) completed",
+				text = "Explore o campo de Einbroch(1) completed",
 				shortcut = 120067,
 			},
 			[2] = {
-				text = "Einbroch Field Exploration(2) completed",
+				text = "Explore o campo de Einbroch(2) completed",
 				shortcut = 120068,
 			},
 			[3] = {
-				text = "Einbroch Field Exploration(3) completed",
+				text = "Explore o campo de Einbroch(3) completed",
 				shortcut = 120069,
 			},
 			[4] = {
-				text = "Einbroch Field Exploration(4) completed",
+				text = "Explore o campo de Einbroch(4) completed",
 				shortcut = 120070,
 			},
 			[5] = {
-				text = "Einbroch Field Exploration(5) completed",
+				text = "Explore o campo de Einbroch(5) completed",
 				shortcut = 120071,
 			},
 			[6] = {
-				text = "Einbroch Field Exploration(6) completed",
+				text = "Explore o campo de Einbroch(6) completed",
 				shortcut = 120072,
 			},
 			[7] = {
-				text = "Einbroch Field Exploration(7) completed",
+				text = "Explore o campo de Einbroch(7) completed",
 				shortcut = 120073,
 			},
 			[8] = {
-				text = "Einbroch Field Exploration(8) completed",
+				text = "Explore o campo de Einbroch(8) completed",
 				shortcut = 120074,
 			},
 		},
@@ -4799,7 +4799,7 @@ achievement_tbl = {
 	},
 	[129012] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Lighthalzen Explorer",
@@ -4809,15 +4809,15 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Lighthalzen Field Exploration(1) completed",
+				text = "Explore o campo de Lighthalzen(1) completed",
 				shortcut = 120075,
 			},
 			[2] = {
-				text = "Lighthalzen Field Exploration(2) completed",
+				text = "Explore o campo de Lighthalzen(2) completed",
 				shortcut = 120076,
 			},
 			[3] = {
-				text = "Lighthalzen Field Exploration(3) completed",
+				text = "Explore o campo de Lighthalzen(3) completed",
 				shortcut = 120077,
 			},
 		},
@@ -4828,7 +4828,7 @@ achievement_tbl = {
 	},
 	[129013] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
 		title = "Schwarzwald Explorer",
@@ -4861,7 +4861,7 @@ achievement_tbl = {
 	},
 	[129014] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
 		title = "Rachel Explorer",
@@ -4871,31 +4871,31 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Rachel Audhumbla Plains Field Exploration(1) completed",
+				text = "Explore o campo na planicies de Rachel Audhumbla(1) completed",
 				shortcut = 120078,
 			},
 			[2] = {
-				text = "Rachel Plains Field Exploration(1) completed",
+				text = "Explore o campo nas planicies de Rachel(1) completed",
 				shortcut = 120079,
 			},
 			[3] = {
-				text = "Rachel Plains Field Exploration(2) completed",
+				text = "Explore o campo nas planicies de Rachel(2) completed",
 				shortcut = 120080,
 			},
 			[4] = {
-				text = "Rachel Plains Field Exploration(3) completed",
+				text = "Explore o campo nas planicies de Rachel(3) completed",
 				shortcut = 120081,
 			},
 			[5] = {
-				text = "Rachel Audhumbla Grassland Field Exploration(1) completed",
+				text = "Explore o campo de postagem de Rachel Audhumbla(1) completed",
 				shortcut = 120082,
 			},
 			[6] = {
-				text = "Rachel Audhumbla Grassland Field Exploration(2) completed",
+				text = "Explore o campo de postagem de Rachel Audhumbla(2) completed",
 				shortcut = 120083,
 			},
 			[7] = {
-				text = "Portus Luna Field Exploration(1) completed",
+				text = "Explore o campo de Portus(1) completed",
 				shortcut = 120084,
 			},
 		},
@@ -4906,7 +4906,7 @@ achievement_tbl = {
 	},
 	[129015] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
 		title = "Veins Explorer",
@@ -4916,23 +4916,23 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Veins Field Exploration(1) completed",
+				text = "Explore o campo de Veins(1) completed",
 				shortcut = 120085,
 			},
 			[2] = {
-				text = "Veins Field Exploration(2) completed",
+				text = "Explore o campo de Veins(2) completed",
 				shortcut = 120086,
 			},
 			[3] = {
-				text = "Veins Field Exploration(3) completed",
+				text = "Explore o campo de Veins(3) completed",
 				shortcut = 120087,
 			},
 			[4] = {
-				text = "Veins Field Exploration(4) completed",
+				text = "Explore o campo de Veins(4) completed",
 				shortcut = 120088,
 			},
 			[5] = {
-				text = "Veins Field Exploration(5) completed",
+				text = "Explore o campo de Veins(5) completed",
 				shortcut = 120089,
 			},
 		},
@@ -4943,7 +4943,7 @@ achievement_tbl = {
 	},
 	[129016] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
 		title = "Arunafeltz Explorer",
@@ -4968,7 +4968,7 @@ achievement_tbl = {
 	},
 	[129017] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
 		title = "Laphine Explorer",
@@ -4982,7 +4982,7 @@ achievement_tbl = {
 				shortcut = 120090,
 			},
 			[2] = {
-				text = "North Bitfrost Field Exploration(1) completed",
+				text = "Explore o campo norte de Bitfrost(1) completed",
 				shortcut = 120091,
 			},
 			[3] = {
@@ -4990,15 +4990,15 @@ achievement_tbl = {
 				shortcut = 120092,
 			},
 			[4] = {
-				text = "Splendide Field Exploration(1) completed",
+				text = "Explore o campo de Splendide(1) completed",
 				shortcut = 120093,
 			},
 			[5] = {
-				text = "Splendide Field Exploration(2) completed",
+				text = "Explore o campo de Splendide(2) completed",
 				shortcut = 120094,
 			},
 			[6] = {
-				text = "Splendide Field Exploration(3) completed",
+				text = "Explore o campo de Splendide(3) completed",
 				shortcut = 120095,
 			},
 		},
@@ -5009,7 +5009,7 @@ achievement_tbl = {
 	},
 	[129018] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
 		title = "Manuk Explorer",
@@ -5019,23 +5019,23 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Manuk Field Exploration(1) completed",
+				text = "Explore o campo de Manuk(1) completed",
 				shortcut = 120096,
 			},
 			[2] = {
-				text = "Manuk Field Exploration(2) completed",
+				text = "Explore o campo de Manuk(2) completed",
 				shortcut = 120097,
 			},
 			[3] = {
-				text = "Manuk Field Exploration(3) completed",
+				text = "Explore o campo de Manuk(3) completed",
 				shortcut = 120098,
 			},
 			[4] = {
-				text = "Outskirts of Kamidal Field Exploration(1) completed",
+				text = "Explore os aredores do campo de Kamidal(1) completed",
 				shortcut = 120099,
 			},
 			[5] = {
-				text = "Outskirts of Kamidal Field Exploration(2) completed",
+				text = "Explore os aredores do campo de Kamidal(2) completed",
 				shortcut = 120100,
 			},
 		},
@@ -5046,7 +5046,7 @@ achievement_tbl = {
 	},
 	[129019] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
 		title = "Eclage Explorer",
@@ -5071,7 +5071,7 @@ achievement_tbl = {
 	},
 	[129020] = {
 		UI_Type = 0,
-		group = "AVENTURA",
+		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
 		title = "Localizing fields explorer",
@@ -5081,7 +5081,7 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Amatsu Field Exploration(1) completed",
+				text = "Explore os campos de Amatsu(1) completed",
 				shortcut = 120101,
 			},
 			[2] = {
@@ -5093,7 +5093,7 @@ achievement_tbl = {
 				shortcut = 120103,
 			},
 			[4] = {
-				text = "Ayothaya Field Exploration(1) completed",
+				text = "Explore o campo de Ayothaya(1) completed",
 				shortcut = 120104,
 			},
 			[5] = {
