@@ -518,14 +518,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(1)",
+		title = "Explore o campo Sudoeste de Payon(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding southwest payon field",
+			details = "Descubra o tesouro em torno do campo payon do sudoeste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Descubra o tesouro em torno do campo payon do sudoeste",
 			},
 		},
 		reward = {
@@ -538,14 +538,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(2)",
+		title = "Explore o campo Sudoeste de Payon(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding southwest payon field",
+			details = "Descubra o tesouro em torno do campo payon do sudoeste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Descubra o tesouro em torno do campo payon do sudoeste",
 			},
 		},
 		reward = {
@@ -558,14 +558,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(3)",
+		title = "Explore o campo Sudoeste de Payon(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding southwest payon field",
+			details = "Descubra o tesouro em torno do campo payon do sudoeste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Descubra o tesouro em torno do campo payon do sudoeste",
 			},
 		},
 		reward = {
@@ -578,14 +578,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(4)",
+		title = "Explore o campo Sudoeste de Payon(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding southwest payon field",
+			details = "Descubra o tesouro em torno do campo payon do sudoeste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Descubra o tesouro em torno do campo payon do sudoeste",
 			},
 		},
 		reward = {
@@ -598,14 +598,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(1)",
+		title = "Explore o campo leste de Payon(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding east payon field",
+			details = "Descubra o tesouro em torno do campo payon leste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Descubra o tesouro em torno do campo payon leste",
 			},
 		},
 		reward = {
@@ -618,14 +618,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(2)",
+		title = "Explore o campo leste de Payon(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding east payon field",
+			details = "Descubra o tesouro em torno do campo payon leste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Descubra o tesouro em torno do campo payon leste",
 			},
 		},
 		reward = {
@@ -638,14 +638,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(3)",
+		title = "Explore o campo leste de Payon(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding east payon field",
+			details = "Descubra o tesouro em torno do campo payon leste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Descubra o tesouro em torno do campo payon leste",
 			},
 		},
 		reward = {
@@ -658,14 +658,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(4)",
+		title = "Explore o campo leste de Payon(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding east payon field",
+			details = "Descubra o tesouro em torno do campo payon leste",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Descubra o tesouro em torno do campo payon leste",
 			},
 		},
 		reward = {
@@ -678,14 +678,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(1)",
+		title = "Explore o campo norte de Mjolnir(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding north mjolnir field",
+			details = "Descubra o tesouro que circunda o campo norte de mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Descubra o tesouro que circunda o campo norte de mjolnir",
 			},
 		},
 		reward = {
@@ -698,14 +698,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(2)",
+		title = "Explore o campo norte de Mjolnir(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding north mjolnir field",
+			details = "Descubra o tesouro que circunda o campo norte de mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Descubra o tesouro que circunda o campo norte de mjolnir",
 			},
 		},
 		reward = {
@@ -718,14 +718,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(3)",
+		title = "Explore o campo norte de Mjolnir(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding north mjolnir field",
+			details = "Descubra o tesouro que circunda o campo norte de mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Descubra o tesouro que circunda o campo norte de mjolnir",
 			},
 		},
 		reward = {
@@ -738,14 +738,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(4)",
+		title = "Explore o campo norte de Mjolnir(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding north mjolnir field",
+			details = "Descubra o tesouro que circunda o campo norte de mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Descubra o tesouro que circunda o campo norte de mjolnir",
 			},
 		},
 		reward = {
@@ -758,14 +758,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(5)",
+		title = "Explore o campo norte de Mjolnir(5)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding north mjolnir field",
+			details = "Descubra o tesouro que circunda o campo norte de mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Descubra o tesouro que circunda o campo norte de mjolnir",
 			},
 		},
 		reward = {
@@ -778,14 +778,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(1)",
+		title = "Explore o campo sul de Mjolnir(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south mjolnir field",
+			details = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 			},
 		},
 		reward = {
@@ -798,14 +798,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(2)",
+		title = "Explore o campo sul de Mjolnir(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south mjolnir field",
+			details = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 			},
 		},
 		reward = {
@@ -818,14 +818,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(3)",
+		title = "Explore o campo sul de Mjolnir(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south mjolnir field",
+			details = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 			},
 		},
 		reward = {
@@ -838,14 +838,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(4)",
+		title = "Explore o campo sul de Mjolnir(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south mjolnir field",
+			details = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 			},
 		},
 		reward = {
@@ -858,14 +858,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(5)",
+		title = "Explore o campo sul de Mjolnir(5)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south mjolnir field",
+			details = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 			},
 		},
 		reward = {
@@ -878,14 +878,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(6)",
+		title = "Explore o campo sul de Mjolnir(6)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south mjolnir field",
+			details = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Descubra o tesouro que rodeia o campo sul do mjolnir",
 			},
 		},
 		reward = {
@@ -898,14 +898,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "South Aldebaran Field Exploration",
+		title = "Explore o campo sul de Aldebaran",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding south aldebaran field",
+			details = "Descubra o tesouro que rodeia o campo aldebarano sul",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south aldebaran field",
+				text = "Descubra o tesouro que rodeia o campo aldebarano sul",
 			},
 		},
 		reward = {
@@ -918,14 +918,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(1)",
+		title = "Explore os campos de Comodo(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -938,14 +938,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(2)",
+		title = "Explore os campos de Comodo(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -958,14 +958,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(3)",
+		title = "Explore os campos de Comodo(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -978,14 +978,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(4)",
+		title = "Explore os campos de Comodo(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -998,14 +998,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(5)",
+		title = "Explore os campos de Comodo(5)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -1018,14 +1018,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(6)",
+		title = "Explore os campos de Comodo(6)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -1038,14 +1038,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(7)",
+		title = "Explore os campos de Comodo(7)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -1058,14 +1058,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(8)",
+		title = "Explore os campos de Comodo(8)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding comodo field",
+			details = "descubra o tesouro ao redor do campo comodo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "descubra o tesouro ao redor do campo comodo",
 			},
 		},
 		reward = {
@@ -1078,14 +1078,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Border Checkpoint Field Exploration(1)",
+		title = "Explore os pontos de verificação na fronteira(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding border checkpoint field",
+			details = "Descubra o tesouro que circunda o campo de controle da fronteira",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding border checkpoint field",
+				text = "Descubra o tesouro que circunda o campo de controle da fronteira",
 			},
 		},
 		reward = {
@@ -1098,14 +1098,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Border Checkpoint Field Exploration(2)",
+		title = "Explore os pontos de verificação na fronteira(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding border checkpoint field",
+			details = "Descubra o tesouro que circunda o campo de controle da fronteira",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding border checkpoint field",
+				text = "Descubra o tesouro que circunda o campo de controle da fronteira",
 			},
 		},
 		reward = {
@@ -1118,14 +1118,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Kiel Hyre Mansion Field Exploration",
+		title = "Explore campo da mansão de Kiel Hyre",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding kiel hyre mansion field",
+			details = "Descubra o tesouro em torno do campo da mansão de kiel hyre",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kiel hyre mansion field",
+				text = "Descubra o tesouro em torno do campo da mansão de kiel hyre",
 			},
 		},
 		reward = {
@@ -1138,14 +1138,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "El Mes Plateau Field Exploration(1)",
+		title = "Explore o campo de El Mes Plateau(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding el mes plateau field",
+			details = "Descubra o tesouro ao redor do campo do mes mes",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes plateau field",
+				text = "Descubra o tesouro ao redor do campo do mes mes",
 			},
 		},
 		reward = {
@@ -1158,14 +1158,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "El Mes Plateau Field Exploration(2)",
+		title = "Explore o campo de El Mes Plateau(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding el mes plateau field",
+			details = "Descubra o tesouro ao redor do campo do mes mes",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes plateau field",
+				text = "Descubra o tesouro ao redor do campo do mes mes",
 			},
 		},
 		reward = {
@@ -1178,14 +1178,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "El Mes Plateau Field Exploration(3)",
+		title = "Explore o campo de El Mes Plateau(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding el mes plateau field",
+			details = "Descubra o tesouro ao redor do campo do mes mes",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes plateau field",
+				text = "Descubra o tesouro ao redor do campo do mes mes",
 			},
 		},
 		reward = {
@@ -1198,14 +1198,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "El Mes Gorge Field Exploration",
+		title = "Explore o campo do desfiladeiro",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding el mes gorge field",
+			details = "Descubra o tesouro ao redor do campo do desfiladeiro",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes gorge field",
+				text = "Descubra o tesouro ao redor do campo do desfiladeiro",
 			},
 		},
 		reward = {
@@ -1218,14 +1218,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Kiel Hyre Academy Field Exploration",
+		title = "Explore o campo da academia de Kiel Hyre",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding kiel hyre academy field",
+			details = "Descubra o tesouro em torno do campo da academia kiel hyre",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kiel hyre academy field",
+				text = "Descubra o tesouro em torno do campo da academia kiel hyre",
 			},
 		},
 		reward = {
@@ -1238,14 +1238,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Guard Camp Field Exploration",
+		title = "Explore o campo do acampamento de guarda",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding guard camp field",
+			details = "Descubra o tesouro em torno do campo do acampamento de guarda",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding guard camp field",
+				text = "Descubra o tesouro em torno do campo do acampamento de guarda",
 			},
 		},
 		reward = {
@@ -1258,14 +1258,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Yuno Field Exploration",
+		title = "explore o campo de Yuno",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding yuno field",
+			details = "Descubra o tesouro ao redor do campo yuno",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding yuno field",
+				text = "Descubra o tesouro ao redor do campo yuno",
 			},
 		},
 		reward = {
@@ -1278,14 +1278,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Front of Thanatos Tower Field Exploration",
+		title = "Explore o campo frente a torre de Thanatos",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding front of thanatos tower field",
+			details = "Descubra o tesouro em torno da frente do campo da torre dos thanatos",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding front of thanatos tower field",
+				text = "Descubra o tesouro em torno da frente do campo da torre dos thanatos",
 			},
 		},
 		reward = {
@@ -1298,14 +1298,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Hugel Field Exploration(1)",
+		title = "Explore o campo de Hugel(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding hugel field",
+			details = "Descubra o tesouro ao redor do campo de hugel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding hugel field",
+				text = "Descubra o tesouro ao redor do campo de hugel",
 			},
 		},
 		reward = {
@@ -1318,14 +1318,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Hugel Field Exploration(2)",
+		title = "Explore o campo de Hugel(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding hugel field",
+			details = "Descubra o tesouro ao redor do campo de hugel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding hugel field",
+				text = "Descubra o tesouro ao redor do campo de hugel",
 			},
 		},
 		reward = {
@@ -1338,14 +1338,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Hugel Field Exploration(3)",
+		title = "Explore o campo de Hugel(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding hugel field",
+			details = "Descubra o tesouro ao redor do campo de hugel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding hugel field",
+				text = "Descubra o tesouro ao redor do campo de hugel",
 			},
 		},
 		reward = {
@@ -1358,14 +1358,14 @@ achievement_tbl = {
 		group = "AVENTURA",
 		major = 2,
 		minor = 1,
-		title = "Abyss Lake Field Exploration(1)",
+		title = "Explore o campo do lago do abismo(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding abyss lake field",
+			details = "Descubra o tesouro em torno do lago do abismo",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abyss lake field",
+				text = "Descubra o tesouro em torno do lago do abismo",
 			},
 		},
 		reward = {
@@ -4441,35 +4441,35 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Southwest Payon Field Exploration(1) completed",
+				text = "Explore o campo Sudoeste de Payon(1) completed",
 				shortcut = 120024,
 			},
 			[2] = {
-				text = "Southwest Payon Field Exploration(2) completed",
+				text = "Explore o campo Sudoeste de Payon(2) completed",
 				shortcut = 120025,
 			},
 			[3] = {
-				text = "Southwest Payon Field Exploration(3) completed",
+				text = "Explore o campo Sudoeste de Payon(3) completed",
 				shortcut = 120026,
 			},
 			[4] = {
-				text = "Southwest Payon Field Exploration(4) completed",
+				text = "Explore o campo Sudoeste de Payon(4) completed",
 				shortcut = 120027,
 			},
 			[5] = {
-				text = "East Payon Field Exploration(1) completed",
+				text = "Explore o campo leste de Payon(1) completed",
 				shortcut = 120028,
 			},
 			[6] = {
-				text = "East Payon Field Exploration(2) completed",
+				text = "Explore o campo leste de Payon(2) completed",
 				shortcut = 120029,
 			},
 			[7] = {
-				text = "East Payon Field Exploration(3) completed",
+				text = "Explore o campo leste de Payon(3) completed",
 				shortcut = 120030,
 			},
 			[8] = {
-				text = "East Payon Field Exploration(4) completed",
+				text = "Explore o campo leste de Payon(4) completed",
 				shortcut = 120031,
 			},
 		},
@@ -4490,23 +4490,23 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "North Mjolnir Field Exploration(1) completed",
+				text = "Explore o campo norte de Mjolnir(1) completed",
 				shortcut = 120032,
 			},
 			[2] = {
-				text = "North Mjolnir Field Exploration(2) completed",
+				text = "Explore o campo norte de Mjolnir(2) completed",
 				shortcut = 120033,
 			},
 			[3] = {
-				text = "North Mjolnir Field Exploration(3) completed",
+				text = "Explore o campo norte de Mjolnir(3) completed",
 				shortcut = 120034,
 			},
 			[4] = {
-				text = "North Mjolnir Field Exploration(4) completed",
+				text = "Explore o campo norte de Mjolnir(4) completed",
 				shortcut = 120035,
 			},
 			[5] = {
-				text = "North Mjolnir Field Exploration(5) completed",
+				text = "Explore o campo norte de Mjolnir(5) completed",
 				shortcut = 120036,
 			},
 		},
@@ -4527,31 +4527,31 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "South Mjolnir Field Exploration(1) completed",
+				text = "Explore o campo sul de Mjolnir(1) completed",
 				shortcut = 120037,
 			},
 			[2] = {
-				text = "South Mjolnir Field Exploration(2) completed",
+				text = "Explore o campo sul de Mjolnir(2) completed",
 				shortcut = 120038,
 			},
 			[3] = {
-				text = "South Mjolnir Field Exploration(3) completed",
+				text = "Explore o campo sul de Mjolnir(3) completed",
 				shortcut = 120039,
 			},
 			[4] = {
-				text = "South Mjolnir Field Exploration(4) completed",
+				text = "Explore o campo sul de Mjolnir(4) completed",
 				shortcut = 120040,
 			},
 			[5] = {
-				text = "South Mjolnir Field Exploration(5) completed",
+				text = "Explore o campo sul de Mjolnir(5) completed",
 				shortcut = 120041,
 			},
 			[6] = {
-				text = "South Mjolnir Field Exploration(6) completed",
+				text = "Explore o campo sul de Mjolnir(6) completed",
 				shortcut = 120042,
 			},
 			[7] = {
-				text = "South Aldebaran Field Exploration(1) completed",
+				text = "Explore o campo sul de Aldebaran(1) completed",
 				shortcut = 120043,
 			},
 		},
@@ -4572,35 +4572,35 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Comodo Field Exploration(1) completed",
+				text = "Explore os campos de Comodo(1) completed",
 				shortcut = 120044,
 			},
 			[2] = {
-				text = "Comodo Field Exploration(2) completed",
+				text = "Explore os campos de Comodo(2) completed",
 				shortcut = 120045,
 			},
 			[3] = {
-				text = "Comodo Field Exploration(3) completed",
+				text = "Explore os campos de Comodo(3) completed",
 				shortcut = 120046,
 			},
 			[4] = {
-				text = "Comodo Field Exploration(4) completed",
+				text = "Explore os campos de Comodo(4) completed",
 				shortcut = 120047,
 			},
 			[5] = {
-				text = "Comodo Field Exploration(5) completed",
+				text = "Explore os campos de Comodo(5) completed",
 				shortcut = 120048,
 			},
 			[6] = {
-				text = "Comodo Field Exploration(6) completed",
+				text = "Explore os campos de Comodo(6) completed",
 				shortcut = 120049,
 			},
 			[7] = {
-				text = "Comodo Field Exploration(7) completed",
+				text = "Explore os campos de Comodo(7) completed",
 				shortcut = 120050,
 			},
 			[8] = {
-				text = "Comodo Field Exploration(8) completed",
+				text = "Explore os campos de Comodo(8) completed",
 				shortcut = 120051,
 			},
 		},
@@ -4666,27 +4666,27 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Border Checkpoint Field Exploration(1) completed",
+				text = "Explore os pontos de verificação na fronteira(1) completed",
 				shortcut = 120052,
 			},
 			[2] = {
-				text = "Border Checkpoint Field Exploration(2) completed",
+				text = "Explore os pontos de verificação na fronteira(2) completed",
 				shortcut = 120053,
 			},
 			[3] = {
-				text = "Kiel Hyre Mansion Field Exploration(1) completed",
+				text = "Explore campo da mansão Kiel Hyre(1) completed",
 				shortcut = 120054,
 			},
 			[4] = {
-				text = "El Mes Plateau Field Exploration(1) completed",
+				text = "Explore o campo de El Mes Plateau(1) completed",
 				shortcut = 120055,
 			},
 			[5] = {
-				text = "El Mes Plateau Field Exploration(2) completed",
+				text = "Explore o campo de El Mes Plateau(2) completed",
 				shortcut = 120056,
 			},
 			[6] = {
-				text = "El Mes Plateau Field Exploration(3) completed",
+				text = "Explore o campo de El Mes Plateau(3) completed",
 				shortcut = 120057,
 			},
 			[7] = {
@@ -4694,7 +4694,7 @@ achievement_tbl = {
 				shortcut = 120058,
 			},
 			[8] = {
-				text = "Kiel Hyre Academy Field Exploration(1) completed",
+				text = ""Explore o campo da academia de Kiel Hyre(1) completed",
 				shortcut = 120059,
 			},
 			[9] = {
@@ -4727,19 +4727,19 @@ achievement_tbl = {
 				shortcut = 120062,
 			},
 			[2] = {
-				text = "Hugel Field Exploration(1) completed",
+				text = "Explore o campo de Hugel(1) completed",
 				shortcut = 120063,
 			},
 			[3] = {
-				text = "Hugel Field Exploration(2) completed",
+				text = "Explore o campo de Hugel(2) completed",
 				shortcut = 120064,
 			},
 			[4] = {
-				text = "Hugel Field Exploration(3) completed",
+				text = "Explore o campo de Hugel(3) completed",
 				shortcut = 120065,
 			},
 			[5] = {
-				text = "Abyss Lake Field Exploration(1) completed",
+				text = "Explore o campo do lago do abismo(1) completed",
 				shortcut = 120066,
 			},
 		},
