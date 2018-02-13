@@ -2098,7 +2098,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Gonryun Field Exploration",
+		title = "Explore o campo de Gonryun",
 		content = {
 			summary = "Descubra tesouro escondido",
 			details = "Descubra o tesouro ao redor do campo de gonryun",
@@ -2518,14 +2518,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(1)",
+		title = "Explore o calabouço de Glastheim(1)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			details = "Descubra o tesouro em torno do calabouço glastheim",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Descubra o tesouro em torno do calabouço glastheim",
 			},
 		},
 		reward = {
@@ -2538,14 +2538,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(2)",
+		title = "Explore o calabouço de Glastheim(2)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			details = "Descubra o tesouro em torno do calabouço glastheim",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Descubra o tesouro em torno do calabouço glastheim",
 			},
 		},
 		reward = {
@@ -2558,14 +2558,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(3)",
+		title = "Explore o calabouço de Glastheim(3)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			details = "Descubra o tesouro em torno do calabouço glastheim",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Descubra o tesouro em torno do calabouço glastheim",
 			},
 		},
 		reward = {
@@ -2578,14 +2578,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(4)",
+		title = "Explore o calabouço de Glastheim(4)",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			details = "Descubra o tesouro em torno do calabouço glastheim",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Descubra o tesouro em torno do calabouço glastheim",
 			},
 		},
 		reward = {
@@ -2598,14 +2598,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Kunlun Dungeon Exploration",
+		title = "Explore o calabouço de Kunlun",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Kunlun dungeon",
+			details = "Descubra o tesouro em torno do calabouço de Kunlun",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Kunlun dungeon",
+				text = "Descubra o tesouro em torno do calabouço de Kunlun",
 			},
 		},
 		reward = {
@@ -2618,14 +2618,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Rachel Dungeon Exploration",
+		title = "Explore o calabouço de Raquel",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding rachel dungeon",
+			details = "Descubra o tesouro que circunda o calabouço de raquel",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel dungeon",
+				text = "Descubra o tesouro que circunda o calabouço de raquel",
 			},
 		},
 		reward = {
@@ -2638,14 +2638,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Sphinx Dungeon Exploration",
+		title = "Explore o calabouço da esfinge",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding sphinx dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço da esfinge",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sphinx dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço da esfinge",
 			},
 		},
 		reward = {
@@ -2658,14 +2658,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Izlude Dungeon Exploration",
+		title = "Explore o calabouço de Izlude",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding izlude dungeon",
+			details = "Descubra o tesouro que circunda o calabouço de izlude",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding izlude dungeon",
+				text = "Descubra o tesouro que circunda o calabouço de izlude",
 			},
 		},
 		reward = {
@@ -2678,14 +2678,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Robot Factory Dungeon Exploration",
+		title = "Explore o calabouço da fábrica de robôs",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding robot factory dungeon",
+			details = "Descubra o tesouro em torno do calabouço na fábrica de robôs",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding robot factory dungeon",
+				text = "Descubra o tesouro em torno do calabouço na fábrica de robôs",
 			},
 		},
 		reward = {
@@ -2698,14 +2698,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Bio Lab Dungeon Exploration",
+		title = "Explore o calabouço do Bio-laboratorio",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding bio lab dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço do bio-laboratório",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding bio lab dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço do bio-laboratório",
 			},
 		},
 		reward = {
@@ -2718,14 +2718,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Gonryun Dungeon Exploration",
+		title = "Explore o calabouço de Gonryun",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding gonryun dungeon",
+			details = "Descubra o tesouro em torno do calabouço de gonryun",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding gonryun dungeon",
+				text = "Descubra o tesouro em torno do calabouço de gonryun",
 			},
 		},
 		reward = {
@@ -2738,14 +2738,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Nogg Road Dungeon Exploration",
+		title = "Explore o calabouço na estrada Nogg",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding nogg road dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço da estrada nogg",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding nogg road dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço da estrada nogg",
 			},
 		},
 		reward = {
@@ -2758,14 +2758,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Coal Mine Dungeon Exploration",
+		title = "Explore o calabouço da mina de carvão",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding Coal mine dungeon",
+			details = "Descubra o tesouro em torno do calabouço da mina de carvão",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Coal mine dungeon",
+				text = "Descubra o tesouro em torno do calabouço da mina de carvão",
 			},
 		},
 		reward = {
@@ -2778,14 +2778,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Pyramid Dungeon Exploration",
+		title = "Explore o calabouço da Pirâmide",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding pyramid dungeon",
+			details = "Descubra o tesouro que rodea o calabouço da pirâmide",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding pyramid dungeon",
+				text = "Descubra o tesouro que rodea o calabouço da pirâmide",
 			},
 		},
 		reward = {
@@ -2798,14 +2798,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Orc Dungeon Exploration",
+		title = "Explore o calabouço dos Orc",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding orc dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço dos orc",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding orc dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço dos orc",
 			},
 		},
 		reward = {
@@ -2818,14 +2818,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Payon Dungeon Exploration",
+		title = "Explore o calabouço de Payon",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding payon dungeon",
+			details = "Descubra o tesouro em torno do calabouço de payon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding payon dungeon",
+				text = "Descubra o tesouro em torno do calabouço de payon",
 			},
 		},
 		reward = {
@@ -2838,14 +2838,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Labyrinth Dungeon Exploration",
+		title = "Explore o calabouço do labirinto",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding labyrinth dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço do labirinto",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding labyrinth dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço do labirinto",
 			},
 		},
 		reward = {
@@ -2858,14 +2858,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Undersea Tunnel Dungeon Exploration",
+		title = "Explore o calabouço do túnel submarino",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding undersea tunnel dungeon",
+			details = "Descubra o tesouro que circunda a calçada do túnel submarino",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding undersea tunnel dungeon",
+				text = "Descubra o tesouro que circunda a calçada do túnel submarino",
 			},
 		},
 		reward = {
@@ -2878,14 +2878,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Thanatos Tower Dungeon Exploration",
+		title = "Explore o calabouço da torre de Thanatos",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding thanatos tower dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço da torre dos thanatos",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding thanatos tower dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço da torre dos thanatos",
 			},
 		},
 		reward = {
@@ -2898,14 +2898,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Thor Volcano Dungeon Exploration",
+		title = "Explore o calabouço do vulção Thor",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding thor volcano dungeon",
+			details = "Descubra o tesouro que circunda o calabouço do vulcão tor",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding thor volcano dungeon",
+				text = "Descubra o tesouro que circunda o calabouço do vulcão tor",
 			},
 		},
 		reward = {
@@ -2918,14 +2918,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Sunken Ship Dungeon Exploration",
+		title = "Explore o calabouço do Navio Afundado",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding sunken ship dungeon",
+			details = "Descubra o tesouro que rodeia a calçada de navio afundada",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sunken ship dungeon",
+				text = "Descubra o tesouro que rodeia a calçada de navio afundada",
 			},
 		},
 		reward = {
@@ -2938,14 +2938,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Turtle Dungeon Exploration",
+		title = "Explore o calabouço da Tartaruga",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding turtle dungeon",
+			details = "Descubra o tesouro que rodeia o calabouço da tartaruga",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding turtle dungeon",
+				text = "Descubra o tesouro que rodeia o calabouço da tartaruga",
 			},
 		},
 		reward = {
@@ -2958,14 +2958,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Toy Factory Dungeon Exploration",
+		title = "Explore o calabouço da Fábrica de Brinquedos",
 		content = {
 			summary = "Descubra tesouro escondido",
-			details = "Discover the treasure surrounding toy factory dungeon",
+			details = "Descubra o tesouro em torno do calabouço da fábrica de brinquedos",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding toy factory dungeon",
+				text = "Descubra o tesouro em torno do calabouço da fábrica de brinquedos",
 			},
 		},
 		reward = {
@@ -2978,30 +2978,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Prontera Contribution",
+		title = "Prontera contribuição",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Prontera evaluation about you",
+			summary = "Rune Midgard reputação metropolitana",
+			details = "Prontera avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3012,30 +3012,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Geffen Contribution",
+		title = "Geffen Contribuição",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Geffen evaluation about you",
+			summary = "Rune Midgard reputação metropolitana",
+			details = "Geffen avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3046,30 +3046,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Morocc Contribution",
+		title = "Morocc Contribuição",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Morocc evaluation about you",
+			summary = "Rune Midgard reputação metropolitana",
+			details = "Morocc avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3080,30 +3080,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Payon Contribution",
+		title = "Payon Contribuição",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Payon evaluation about you",
+			summary = "Rune Midgard reputação metropolitana",
+			details = "Payon avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3114,30 +3114,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Yuno Contribution",
+		title = "Yuno Contribuição",
 		content = {
-			summary = "Schwartzvald metropolitan reputation",
-			details = "Yuno evaluation about you",
+			summary = "Schwartzvald reputação metropolitana",
+			details = "Yuno avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3148,30 +3148,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Lighthalzen Contribution",
+		title = "Lighthalzen Contribuição",
 		content = {
-			summary = "Schwartzvald metropolitan reputation",
-			details = "Lighthalzen evaluation about you",
+			summary = "Schwartzvald reputação metropolitana",
+			details = "Lighthalzen avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3182,30 +3182,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Einbroch Contribution",
+		title = "Einbroch Contribuição",
 		content = {
-			summary = "Schwartzvald metropolitan reputation",
-			details = "Einbroch evaluation about you",
+			summary = "Schwartzvald reputação metropolitana",
+			details = "Einbroch avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3216,30 +3216,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Rachel Contribution",
+		title = "Rachel Contribuição",
 		content = {
-			summary = "Arunafeltz metropolitan reputation",
-			details = "Rachel evaluation about you",
+			summary = "Arunafeltz reputação metropolitana",
+			details = "Rachel avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3250,30 +3250,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Veins Contribution",
+		title = "Veins Contribuição",
 		content = {
-			summary = "Arunafeltz metropolitan reputation",
-			details = "Veins evaluation about you",
+			summary = "Arunafeltz reputação metropolitana",
+			details = "Veins avaliação sobre você",
 		},
 		resource = {
 			[1] = {
-				text = "Stranger",
+				text = "Desconhecido",
 				count = 3000,
 			},
 			[2] = {
-				text = "Village Freshman",
+				text = "Aldeia Calouro",
 				count = 6000,
 			},
 			[3] = {
-				text = "Neighbor",
+				text = "Vizinho",
 				count = 12000,
 			},
 			[4] = {
-				text = "Celebrity",
+				text = "Celebridade",
 				count = 20000,
 			},
 			[5] = {
-				text = "City Dictator",
+				text = "Ditador da Cidade",
 				count = 1000,
 			},
 		},
@@ -3284,14 +3284,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Uninvited Guest",
+		title = "Hóspede não convidado",
 		content = {
-			summary = "Eliminate Celine Kimmy",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Celine Kimmy",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Celine Kimmy",
+				text = "Elimine 1 Celine Kimmy",
 				count = 1,
 			},
 		},
@@ -3303,14 +3303,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Strange Guest",
+		title = "Hóspede Estranho",
 		content = {
-			summary = "Eliminate Celine Kimmy",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Celine Kimmy",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Celine Kimmy",
+				text = "Elimine 10 Celine Kimmy",
 				count = 10,
 			},
 		},
@@ -3322,14 +3322,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Get along with map...",
+		title = "Acompanhe o mapa...",
 		content = {
-			summary = "Eliminate Celine Kimmy",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Celine Kimmy",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 25 Celine Kimmy",
+				text = "Elimine 25 Celine Kimmy",
 				count = 25,
 			},
 		},
@@ -3341,14 +3341,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Welcomed Guest",
+		title = "Convidade Congratulou-se",
 		content = {
-			summary = "Eliminate Celine Kimmy",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Celine Kimmy",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Celine Kimmy",
+				text = "Elimine 50 Celine Kimmy",
 				count = 50,
 			},
 		},
@@ -3360,14 +3360,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Kimmy's best friend",
+		title = "Kimmy's Melhor Amigo",
 		content = {
-			summary = "Eliminate Celine Kimmy",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Celine Kimmy",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 100 Celine Kimmy",
+				text = "Elimine 100 Celine Kimmy",
 				count = 100,
 			},
 		},
@@ -3379,14 +3379,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Novice Angler",
+		title = "Novato pescador",
 		content = {
-			summary = "Eliminate Bakonawa",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Bakonawa",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Bakonawa",
+				text = "Elimine 1 Bakonawa",
 				count = 1,
 			},
 		},
@@ -3398,14 +3398,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Juicy Hunter",
+		title = "Caçador espremedor",
 		content = {
-			summary = "Eliminate Bakonawa",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Bakonawa",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Bakonawa",
+				text = "Elimine 10 Bakonawa",
 				count = 10,
 			},
 		},
@@ -3417,14 +3417,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Rhythm Master",
+		title = "Mestre de Ritmo",
 		content = {
-			summary = "Eliminate Bakonawa",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Bakonawa",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Bakonawa",
+				text = "Elimine 50 Bakonawa",
 				count = 50,
 			},
 		},
@@ -3436,14 +3436,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Bold Adventurer",
+		title = "Bold Aventureiro",
 		content = {
-			summary = "Eliminate Baphomet",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Baphomet",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Baphomet",
+				text = "Elimine 1 Baphomet",
 				count = 1,
 			},
 		},
@@ -3455,14 +3455,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Baphomet Hatred",
+		title = "Ódio Baphomet",
 		content = {
-			summary = "Eliminate Baphomet",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Baphomet",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Baphomet",
+				text = "Elimine 10 Baphomet",
 				count = 10,
 			},
 		},
@@ -3474,14 +3474,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Goat's Nemesis",
+		title = "Némesis de cabra",
 		content = {
-			summary = "Eliminate Baphomet",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Baphomet",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Baphomet",
+				text = "Elimine 50 Baphomet",
 				count = 50,
 			},
 		},
@@ -3493,14 +3493,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Ordinary Tourist",
+		title = "Turista ordinário",
 		content = {
-			summary = "Eliminate Grim Reaper Ankou",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Grim Reaper Ankou",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Grim Reaper Ankou",
+				text = "Elimine 1 Grim Reaper Ankou",
 				count = 1,
 			},
 		},
@@ -3512,14 +3512,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Backcountry Expert",
+		title = "País de origem Especialista",
 		content = {
-			summary = "Eliminate Grim Reaper Ankou",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Grim Reaper Ankou",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Grim Reaper Ankou",
+				text = "Elimine 10 Grim Reaper Ankou",
 				count = 10,
 			},
 		},
@@ -3531,14 +3531,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Able to eat more like this",
+		title = "Capaz de comer mais assim",
 		content = {
-			summary = "Eliminate Grim Reaper Ankou",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Grim Reaper Ankou",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Grim Reaper Ankou",
+				text = "Elimine 50 Grim Reaper Ankou",
 				count = 50,
 			},
 		},
@@ -3550,14 +3550,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Digest hard meat",
+		title = "Digerir carne dura",
 		content = {
-			summary = "Eliminate Buwaya",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Buwaya",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Buwaya",
+				text = "Elimine 1 Buwaya",
 				count = 1,
 			},
 		},
@@ -3569,14 +3569,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Master of Escape",
+		title = "Mestre do Escape",
 		content = {
-			summary = "Eliminate Buwaya",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Buwaya",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Buwaya",
+				text = "Elimine 10 Buwaya",
 				count = 10,
 			},
 		},
@@ -3588,14 +3588,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Immortal Hunter",
+		title = "Caçador imortal",
 		content = {
-			summary = "Eliminate Buwaya",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Buwaya",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Buwaya",
+				text = "Elimine 50 Buwaya",
 				count = 50,
 			},
 		},
@@ -3607,14 +3607,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Stood up and overcame despair",
+		title = "Levantou-se e superou o desespero",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine God of Despair Morocc",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 God of Despair Morocc",
+				text = "Elimine 1 God of Despair Morocc",
 				count = 1,
 			},
 		},
@@ -3626,14 +3626,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Ember of Hope",
+		title = "Chama da Esperança",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine God of Despair Morocc",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 God of Despair Morocc",
+				text = "Elimine 10 God of Despair Morocc",
 				count = 10,
 			},
 		},
@@ -3647,12 +3647,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Pouring Aurora",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine God of Despair Morocc",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 25 God of Despair Morocc",
+				text = "Elimine 25 God of Despair Morocc",
 				count = 25,
 			},
 		},
@@ -3664,14 +3664,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Who is desperate? I am hopeless!",
+		title = "Quem está desesperado? Estou sem esperança!",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine God of Despair Morocc",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 God of Despair Morocc",
+				text = "Elimine 50 God of Despair Morocc",
 				count = 50,
 			},
 		},
@@ -3683,14 +3683,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "I know god will save the world",
+		title = "Eu sei que Deus salvará o mundo",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine God of Despair Morocc",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 100 God of Despair Morocc",
+				text = "Elimine 100 God of Despair Morocc",
 				count = 100,
 			},
 		},
@@ -3702,14 +3702,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "There was mercy in Morocc army",
+		title = "Havia piedade no exército marroquino",
 		content = {
-			summary = "Eliminate Morocc necromancer",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Morocc necromancer",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Morocc necromancer",
+				text = "Elimine 1 Morocc necromancer",
 				count = 1,
 			},
 		},
@@ -3721,14 +3721,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "There was fear in Morocc army",
+		title = "Havia medo no exército marroquino",
 		content = {
-			summary = "Eliminate Morocc necromancer",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Morocc necromancer",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate Morocc 10 necromancer",
+				text = "Elimine Morocc 10 necromancer",
 				count = 10,
 			},
 		},
@@ -3740,14 +3740,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Guard of weak army",
+		title = "Guarda do exército fraco",
 		content = {
-			summary = "Eliminate Morocc necromancer",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Morocc necromancer",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate Morocc 50 necromancer",
+				text = "Elimine Morocc 50 necromancer",
 				count = 50,
 			},
 		},
@@ -3759,14 +3759,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Audience with the queen",
+		title = "Audiência com a rainha",
 		content = {
-			summary = "Eliminate Faceworm Queen",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Faceworm Queen",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Faceworm Queen",
+				text = "Elimine 1 Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3778,14 +3778,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Warm earth",
+		title = "Terra quente",
 		content = {
-			summary = "Eliminate Earth Faceworm Queen",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Earth Faceworm Queen",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Earth Faceworm Queen",
+				text = "Elimine 1 Earth Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3797,14 +3797,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Water is very good exactly",
+		title = "A água é muito boa exatamente",
 		content = {
-			summary = "Eliminate Water Faceworm Queen",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Water Faceworm Queen",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Water Faceworm Queen",
+				text = "Elimine 1 Water Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3816,14 +3816,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Pleasant breeze",
+		title = "Brisa agradável",
 		content = {
-			summary = "Eliminate Wind Faceworm Queen",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Wind Faceworm Queen",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Wind Faceworm Queen",
+				text = "Elimine 1 Wind Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3835,14 +3835,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Visitor of old castle",
+		title = "Visitante do castelo antigo",
 		content = {
-			summary = "Eliminate Amdarais",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Amdarais",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Amdarais",
+				text = "Elimine 1 Amdarais",
 				count = 1,
 			},
 		},
@@ -3854,14 +3854,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Lord of old castle",
+		title = "Senhor do castelo antigo",
 		content = {
-			summary = "Eliminate Amdarais",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Amdarais",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Amdarais",
+				text = "Elimine 10 Amdarais",
 				count = 10,
 			},
 		},
@@ -3873,14 +3873,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Conqueror of old castle",
+		title = "Conquistador do castelo antigo",
 		content = {
-			summary = "Eliminate Amdarais",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Amdarais",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Amdarais",
+				text = "Elimine 50 Amdarais",
 				count = 50,
 			},
 		},
@@ -3894,12 +3894,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Haggard sucker",
 		content = {
-			summary = "Eliminate Amdarais (Superior)",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Amdarais (Superior)",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Amdarais (Superior)",
+				text = "Elimine 1 Amdarais (Superior)",
 				count = 1,
 			},
 		},
@@ -3911,14 +3911,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Hope of the Knight",
+		title = "Esperança do Cavaleiro",
 		content = {
-			summary = "Eliminate Amdarais (Superior)",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Amdarais (Superior)",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Amdarais (Superior)",
+				text = "Elimine 10 Amdarais (Superior)",
 				count = 10,
 			},
 		},
@@ -3930,14 +3930,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Guardian of the Dawn",
+		title = "Guardião da Aurora",
 		content = {
-			summary = "Eliminate Amdarais (Superior)",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Amdarais (Superior)",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Amdarais (Superior)",
+				text = "Elimine 50 Amdarais (Superior)",
 				count = 50,
 			},
 		},
@@ -3949,14 +3949,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Time Traveler",
+		title = "Viajante do tempo",
 		content = {
-			summary = "Eliminate Sarah Irene",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Sarah Irene",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Sarah Irene",
+				text = "Elimine 1 Sarah Irene",
 				count = 1,
 			},
 		},
@@ -3968,14 +3968,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Restore ancient relic",
+		title = "Restaurar relíquia antiga",
 		content = {
-			summary = "Eliminate Sarah Irene",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Sarah Irene",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Sarah Irene",
+				text = "Elimine 10 Sarah Irene",
 				count = 10,
 			},
 		},
@@ -3987,14 +3987,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Master of relic transport",
+		title = "Mestrado em transporte relíquico",
 		content = {
-			summary = "Eliminate Sarah Irene",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Sarah Irene",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Sarah Irene",
+				text = "Elimine 50 Sarah Irene",
 				count = 50,
 			},
 		},
@@ -4006,14 +4006,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Show Jailbreak to the captain",
+		title = "Mostre Jailbreak ao capitão",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Ferlock",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Ferlock",
+				text = "Elimine 1 Ferlock",
 				count = 1,
 			},
 		},
@@ -4025,14 +4025,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Show Jailbreak to the weak captain",
+		title = "Mostrar Jailbreak para o capitão fraco",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Ferlock",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Ferlock",
+				text = "Elimine 1 Ferlock",
 				count = 1,
 			},
 		},
@@ -4044,14 +4044,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Riot on board",
+		title = "Motim a bordo",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Ferlock",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Ferlock",
+				text = "Elimine 10 Ferlock",
 				count = 10,
 			},
 		},
@@ -4063,14 +4063,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Turmoil on board",
+		title = "Tumulto a bordo",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Ferlock",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Ferlock",
+				text = "Elimine 10 Ferlock",
 				count = 10,
 			},
 		},
@@ -4082,14 +4082,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Rebellion on board",
+		title = "Rebelião a bordo",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Ferlock",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Ferlock",
+				text = "Elimine 50 Ferlock",
 				count = 50,
 			},
 		},
@@ -4101,14 +4101,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Revolt of Riot",
+		title = "Revolta de motim",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Ferlock",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Ferlock",
+				text = "Elimine 50 Ferlock",
 				count = 50,
 			},
 		},
@@ -4120,14 +4120,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Magic tournament champion",
+		title = "Campeão do torneio mágico",
 		content = {
-			summary = "Eliminate Fenrir",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Fenrir",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Fenrir",
+				text = "Elimine 1 Fenrir",
 				count = 1,
 			},
 		},
@@ -4139,14 +4139,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Gladiator of Coliseum",
+		title = "Gladiador do Coliseu",
 		content = {
-			summary = "Eliminate Fenrir",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Fenrir",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Fenrir",
+				text = "Elimine 10 Fenrir",
 				count = 10,
 			},
 		},
@@ -4158,14 +4158,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Slayer of Colosseum",
+		title = "Assassino do Coliseu",
 		content = {
-			summary = "Eliminate Fenrir",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Fenrir",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Fenrir",
+				text = "Elimine 50 Fenrir",
 				count = 50,
 			},
 		},
@@ -4177,14 +4177,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Endless Tower challenger",
+		title = "Desafiador torre sem fim",
 		content = {
-			summary = "Eliminate Naght Sieger",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Naght Sieger",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Naght Sieger",
+				text = "Elimine 1 Naght Sieger",
 				count = 1,
 			},
 		},
@@ -4196,14 +4196,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Endless Tower Slayer",
+		title = "Assassino da torre sem fim",
 		content = {
-			summary = "Eliminate Naght Sieger",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Naght Sieger",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Naght Sieger",
+				text = "Elimine 10 Naght Sieger",
 				count = 10,
 			},
 		},
@@ -4215,14 +4215,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Lord of the tower",
+		title = "Senhor da torre",
 		content = {
-			summary = "Eliminate Naght Sieger",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Naght Sieger",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Naght Sieger",
+				text = "Elimine 50 Naght Sieger",
 				count = 50,
 			},
 		},
@@ -4234,14 +4234,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Novice Exorcist",
+		title = "Exorcista iniciante",
 		content = {
-			summary = "Eliminate Bangungot soul pillar",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Bangungot soul pillar",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 1 Bangungot soul pillar",
+				text = "Elimine 1 Bangungot soul pillar",
 				count = 1,
 			},
 		},
@@ -4253,14 +4253,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Experienced Exorcist",
+		title = "Exorcista experiente",
 		content = {
-			summary = "Eliminate Bangungot soul pillar",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Bangungot soul pillar",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 10 Bangungot soul pillar",
+				text = "Elimine 10 Bangungot soul pillar",
 				count = 10,
 			},
 		},
@@ -4272,14 +4272,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Legendary Exorcist",
+		title = "Exorcista Legendário",
 		content = {
-			summary = "Eliminate Bangungot soul pillar",
-			details = "Proceed until the end of the Dungeon",
+			summary = "Elimine Bangungot soul pillar",
+			details = "Prossiga até o final do Calabouço",
 		},
 		resource = {
 			[1] = {
-				text = "Eliminate 50 Bangungot soul pillar",
+				text = "Elimine 50 Bangungot soul pillar",
 				count = 50,
 			},
 		},
@@ -4291,10 +4291,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Prontera Explorer",
+		title = "Explore Prontera",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Prontera",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Prontera",
 		},
 		resource = {
 			[1] = {
@@ -4348,10 +4348,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Geffen Explorer",
+		title = "Explore Geffen",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Geffen",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Geffen",
 		},
 		resource = {
 			[1] = {
@@ -4393,10 +4393,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Explorer",
+		title = "Explore o deserto de Sograt",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Sograt Desert",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Sograt Desert",
 		},
 		resource = {
 			[1] = {
@@ -4434,10 +4434,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Payon Explorer",
+		title = "Payon Explore",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Payon",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Payon",
 		},
 		resource = {
 			[1] = {
@@ -4483,10 +4483,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Explorer",
+		title = "Explore o norte de Mjolnir",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding North Mjolnir",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores do norte de Mjolnir",
 		},
 		resource = {
 			[1] = {
@@ -4520,10 +4520,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Explorer",
+		title = "Explore o sul de Mjolnir",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding South Mjolnir",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores do sul de Mjolnir",
 		},
 		resource = {
 			[1] = {
@@ -4565,10 +4565,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Comodo Explorer",
+		title = "Explore Comodo",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Comodo",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Comodo",
 		},
 		resource = {
 			[1] = {
@@ -4614,38 +4614,38 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Rune Midgard Explorer",
+		title = "Explore Rune Midgard",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Rune Midgard",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Rune Midgard",
 		},
 		resource = {
 			[1] = {
-				text = "Prontera Explorer",
+				text = "Prontera Explore",
 				shortcut = 129001,
 			},
 			[2] = {
-				text = "Geffen Explorer",
+				text = "Geffen Explore",
 				shortcut = 129002,
 			},
 			[3] = {
-				text = "Sograt Desert Explorer",
+				text = "Sograt Desert Explore",
 				shortcut = 129003,
 			},
 			[4] = {
-				text = "Payon Explorer",
+				text = "Payon Explore",
 				shortcut = 129004,
 			},
 			[5] = {
-				text = "North Mjolnir Explorer",
+				text = "North Mjolnir Explore",
 				shortcut = 129005,
 			},
 			[6] = {
-				text = "South Mjolnir Explorer",
+				text = "South Mjolnir Explore",
 				shortcut = 129006,
 			},
 			[7] = {
-				text = "Comodo Explorer",
+				text = "Comodo Explore",
 				shortcut = 129007,
 			},
 		},
@@ -4659,10 +4659,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Yuno Explorer",
+		title = "Explore Yuno",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Yuno",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Yuno",
 		},
 		resource = {
 			[1] = {
@@ -4716,10 +4716,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Hugel Explorer",
+		title = "Explore Hugel",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Hugel",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Hugel",
 		},
 		resource = {
 			[1] = {
@@ -4753,10 +4753,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Explorer",
+		title = "Explore Einbroch",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Einbroch",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Einbroch",
 		},
 		resource = {
 			[1] = {
@@ -4802,10 +4802,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Explorer",
+		title = "Explore Lighthalzen",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Lighthalzen",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Lighthalzen",
 		},
 		resource = {
 			[1] = {
@@ -4831,26 +4831,26 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Schwarzwald Explorer",
+		title = "Explore Schwarzwald",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Schwarzwald",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Schwarzwald",
 		},
 		resource = {
 			[1] = {
-				text = "Yuno Explorer",
+				text = "Explore Yuno",
 				shortcut = 129009,
 			},
 			[2] = {
-				text = "Hugel Explorer",
+				text = "Explore Hugel",
 				shortcut = 129010,
 			},
 			[3] = {
-				text = "Einbroch Explorer",
+				text = "Explore Einbroch",
 				shortcut = 129011,
 			},
 			[4] = {
-				text = "Lighthalzen Explorer",
+				text = "Explore Lighthalzen",
 				shortcut = 129012,
 			},
 		},
@@ -4864,10 +4864,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Rachel Explorer",
+		title = "Explore Rachel",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Rachel",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Rachel",
 		},
 		resource = {
 			[1] = {
@@ -4909,10 +4909,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Veins Explorer",
+		title = "Explore Veins",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Veins",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Veins",
 		},
 		resource = {
 			[1] = {
@@ -4946,18 +4946,18 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Arunafeltz Explorer",
+		title = "Explore Arunafeltz",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Arunafeltz",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Arunafeltz",
 		},
 		resource = {
 			[1] = {
-				text = "Rachel Explorer",
+				text = "Explore Rachel",
 				shortcut = 129014,
 			},
 			[2] = {
-				text = "Veins Explorer",
+				text = "Explore Veins",
 				shortcut = 129015,
 			},
 		},
@@ -4971,10 +4971,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Laphine Explorer",
+		title = "Explore Laphine",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Laphine",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Laphine",
 		},
 		resource = {
 			[1] = {
@@ -5012,10 +5012,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Manuk Explorer",
+		title = "Explore Manuk",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Manuk",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Manuk",
 		},
 		resource = {
 			[1] = {
@@ -5049,18 +5049,18 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Eclage Explorer",
+		title = "Explore Eclage",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Eclage",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Eclage",
 		},
 		resource = {
 			[1] = {
-				text = "Laphine Explorer",
+				text = "Explore Laphine",
 				shortcut = 129017,
 			},
 			[2] = {
-				text = "Manuk Explorer",
+				text = "Explore Manuk",
 				shortcut = 129018,
 			},
 		},
@@ -5074,10 +5074,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Localizing fields explorer",
+		title = "Explore o campo de Localizing ",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Localizing fields",
+			summary = "Objetivos completos de exploração de campo",
+			details = "Completa ao explorar os arredores de Localizing",
 		},
 		resource = {
 			[1] = {
@@ -5085,11 +5085,11 @@ achievement_tbl = {
 				shortcut = 120101,
 			},
 			[2] = {
-				text = "Kunlun Field Exploration(1) completed",
+				text = "Explore o campo de Kunlun(1) completed",
 				shortcut = 120102,
 			},
 			[3] = {
-				text = "Gonryun Field Exploration(1) completed",
+				text = "Explore o campo de Gonryun(1) completed",
 				shortcut = 120103,
 			},
 			[4] = {
@@ -5101,19 +5101,19 @@ achievement_tbl = {
 				shortcut = 120105,
 			},
 			[6] = {
-				text = "Brasilis Field Exploration(1) completed",
+				text = "Explore o campo de Brasilis(1) completed",
 				shortcut = 120106,
 			},
 			[7] = {
-				text = "Dewata Field Exploration(1) completed",
+				text = "Explore o campo de Dewata(1) completed",
 				shortcut = 120107,
 			},
 			[8] = {
-				text = "Malaya Field Exploration(1) completed",
+				text = "Explore o campo de Malaya(1) completed",
 				shortcut = 120108,
 			},
 			[9] = {
-				text = "Malaya Field Exploration(2) completed",
+				text = "Explore o campo de Malaya(2) completed",
 				shortcut = 120109,
 			},
 		},
@@ -5127,32 +5127,32 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "Socialite debut",
+		title = "Realidade de socialidade",
 		content = {
-			summary = "Visit the Seven Royal Family",
-			details = "Visit the seven Royal Family in the east and west detached palace.",
+			summary = "Visite 7 família real",
+			details = "Visite 7 famíliareal no palácio do leste e oeste destacado.",
 		},
 		resource = {
 			[1] = {
-				text = "Visit Heine Royal Family and start conversation",
+				text = "Visite Heine família real e inicie uma conversa",
 			},
 			[2] = {
-				text = "Visit Nerius Royal Family and start conversation",
+				text = "Visite Nerius Família real e inicie uma conversa",
 			},
 			[3] = {
-				text = "Visit Walter Royal Family and start conversation",
+				text = "Visite Walter Família real e inicie uma conversa",
 			},
 			[4] = {
-				text = "Visit Wigner Royal Family and start conversation",
+				text = "Visite Wigner Família real e inicie uma conversa",
 			},
 			[5] = {
-				text = "Visit Richard Royal Family and start conversation",
+				text = "Visite Richard Família real e iniciar conversa",
 			},
 			[6] = {
-				text = "Visit Gaebolg Royal Family and start conversation",
+				text = "Visite Gaebolg Família real e iniciar conversa",
 			},
 			[7] = {
-				text = "Visit Lugenburg Royal Family and start conversation",
+				text = "Visite Lugenburg Família real e iniciar conversa",
 			},
 		},
 		reward = {
@@ -5165,14 +5165,14 @@ achievement_tbl = {
 		group = "HEAR",
 		major = 4,
 		minor = 0,
-		title = "Song chamber is not an accident",
+		title = "Câmara de música não é um acidente",
 		content = {
-			summary = "Listening the secret song of court musician",
-			details = "Listen the secret song of five recomended court musician",
+			summary = "Ouvindo a música secreta do músico da corte",
+			details = "Ouça a música secreta de cinco músicos de corte recomendados",
 		},
 		resource = {
 			[1] = {
-				text = "Listen the secret song of five recomended court musician",
+				text = "Ouça a música secreta de cinco músicos de corte recomendados",
 			},
 		},
 		reward = {},
@@ -5183,26 +5183,26 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Alliance workers of merchant city",
+		title = "Trabalhadores da aliança da cidade mercante",
 		content = {
-			summary = "Alliance workers in the great city of merchant",
-			details = "Do you want to challenge all requests of Merchant city alliance? Then work harder! merchant city is not place for pushy.",
+			summary = "Trabalhadores da aliança na grande cidade do comerciante",
+			details = "Você quer desafiar todas as solicitações da aliança da Merchant City? Então, trabalhe mais forte! A cidade mercantil não é um lugar para instigador.",
 		},
 		resource = {
 			[1] = {
-				text = "Novice Amethyst class",
+				text = "Classe Ametista Novata",
 				count = 1,
 			},
 			[2] = {
-				text = "Expert Sardonyx class",
+				text = "Classe Sardonyx Especialista",
 				count = 10,
 			},
 			[3] = {
-				text = "Competence Person Aquamarine class",
+				text = "Classe Aquamarine Pessoa de competência",
 				count = 30,
 			},
 			[4] = {
-				text = "Sparkling Diamond class",
+				text = "Classe Diamond Espumante",
 				count = 100,
 			},
 		},
@@ -5214,14 +5214,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Acquire the first aura!",
+		title = "Adquira a primeira aura!",
 		content = {
-			summary = "Achieve Base Level 99!",
-			details = "Achieve base level 99.",
+			summary = "Alcance o Nível Base 99!",
+			details = "Alcance o Nível Base 99.",
 		},
 		resource = {
 			[1] = {
-				text = "Base level 99",
+				text = "Nível base 99",
 			},
 		},
 		reward = {
@@ -5236,14 +5236,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Acquire the second aura!",
+		title = "Adquira a primeira aura!",
 		content = {
-			summary = "Achieve Base Level 150!",
-			details = "Achieve base level 150.",
+			summary = "Alcance o Nível Base 150!",
+			details = "Alcance o Nível Base 150.",
 		},
 		resource = {
 			[1] = {
-				text = "Base level 150",
+				text = "Nível base 150",
 			},
 		},
 		reward = {
@@ -5258,14 +5258,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Acquire the third aura!",
+		title = "Adquira a terceira aura!",
 		content = {
-			summary = "Achieve Base Level 175!",
-			details = "Achieve base level 175.",
+			summary = "Alcance o Nível Base 175!",
+			details = "Alcance o Nível Base 175.",
 		},
 		resource = {
 			[1] = {
-				text = "Base level 175",
+				text = "Nível base 175",
 			},
 		},
 		reward = {
@@ -5280,14 +5280,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Master Job level!",
+		title = "Nível mestre de trabalho!",
 		content = {
-			summary = "Achieve Job Level 50!",
-			details = "Achieve job level 50.",
+			summary = "Alcançar o Nível de Trabalho 50!",
+			details = "Alcançar o Nível de Trabalho 50.",
 		},
 		resource = {
 			[1] = {
-				text = "Job level 50",
+				text = "Nível de trabalho 50",
 			},
 		},
 		reward = {
@@ -5302,14 +5302,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Grandmaster Job level!",
+		title = "Nível Grande mestre de trabalho!",
 		content = {
-			summary = "Achieve Job Level 70!",
-			details = "Achieve job level 70.",
+			summary = "Alcançar o Nível de Trabalho 70!",
+			details = "Alcançar o Nível de Trabalho 70.",
 		},
 		resource = {
 			[1] = {
-				text = "Job level 70",
+				text = "Nível de trabalho 70",
 			},
 		},
 		reward = {
@@ -5324,14 +5324,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Official Adventurer",
+		title = "Aventureiro Oficial",
 		content = {
-			summary = "Job change to first class.",
+			summary = "Mudança de emprego para a primeira classe.",
 			details = "Acolyte, Merchant, Swordman, Mage, Thief or Archer.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to first class",
+				text = "Mudança de trabalho para a primeira classe",
 			},
 		},
 		reward = {
@@ -5344,14 +5344,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "First step of job change!",
+		title = "Primeiro passo da mudança de trabalho!",
 		content = {
-			summary = "First step of job change",
+			summary = "Primeiro passo da mudança de trabalho",
 			details = "Acolyte, Merchant, Swordman, Mage, Thief or Archer.",
 		},
 		resource = {
 			[1] = {
-				text = "First step of job change",
+				text = "Primeiro passo da mudança de trabalho",
 			},
 		},
 		reward = {
@@ -5364,14 +5364,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Veteran Adventurer! (1)",
+		title = "Aventureiro Veterano! (1)",
 		content = {
-			summary = "Job change to 2-1 classes",
+			summary = "Mudança de trabalho para classe 2-1",
 			details = "Knight, Blacksmith, Assassin, Wizard, Priest or Hunter.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to 2-1 classes",
+				text = "Mudança de trabalho para classe 2-1",
 			},
 		},
 		reward = {
@@ -5384,14 +5384,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Veteran Adventurer! (2)",
+		title = "Aventureiro Veterano! (2)",
 		content = {
-			summary = "Job change to 2-2 classes",
+			summary = "Mudança de trabalho para classe 2-2",
 			details = "Crusader, Alchemist, Rogue, Sage, Monk, Bard or Dancer.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to 2-2 classes",
+				text = "Mudança de trabalho para classe 2-2",
 			},
 		},
 		reward = {
@@ -5404,14 +5404,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Warrior (1)",
+		title = "Guerreiro (1)",
 		content = {
-			summary = "Job change to transcendent 2-1 classes",
+			summary = "Mudança de trabalho para classes transcendentes de 2-1",
 			details = "Lord Knight, White Smith, Assassin Cross, High Wizard, High Priest or Sniper.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to transcendent 2-1 classes",
+				text = "Mudança de trabalho para classes transcendentes de 2-1",
 			},
 		},
 		reward = {
@@ -5424,14 +5424,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Warrior (2)",
+		title = "Guerreiro (2)",
 		content = {
-			summary = "Job change to transcendent 2-2 classes",
+			summary = "Mudança de trabalho para classes transcendentes de 2-2",
 			details = "Paladin, Creator, Stalker, Proffesor, Champion, Clown or Gypsi.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to transcendent 2-2 classes",
+				text = "Mudança de trabalho para classes transcendentes de 2-2",
 			},
 		},
 		reward = {
@@ -5444,14 +5444,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Elite Adventurer! (1)",
+		title = "Elite Aventureiro! (1)",
 		content = {
-			summary = "Job change to 3-1 classes",
+			summary = "Mudança de trabalho para classe 3-1",
 			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to 3-1 classes",
+				text = "Mudança de trabalho para classe 3-1",
 			},
 		},
 		reward = {
@@ -5465,14 +5465,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Transcendentaler! (1)",
+		title = "Transcendental! (1)",
 		content = {
-			summary = "Job change to 3-1 classes after transcendent",
+			summary = "Mudança de trabalho para classe 3-1 após transcendência",
 			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger after transcendent.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to 3-1 classes after transcendent",
+				text = "Mudança de trabalho para classe 3-1 após transcendência",
 			},
 		},
 		reward = {
@@ -5486,14 +5486,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Elite Adventurer! (2)",
+		title = "Elite Aventureiro! (2)",
 		content = {
-			summary = "Job change to 3-2 classes",
+			summary = "Mudança de trabalho para classes 3-2",
 			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to 3-2 classes",
+				text = "Mudança de trabalho para classes 3-2",
 			},
 		},
 		reward = {
@@ -5507,14 +5507,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Transcendentaler! (2)",
+		title = "Transcendental! (2)",
 		content = {
-			summary = "Job change to 3-2 classes after transcendent",
+			summary = "Mudança de trabalho para classes 3-2 depois de transcendente",
 			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer after transcendent.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to 3-2 classes after transcendent",
+				text = "Mudança de trabalho para classes 3-2 depois de transcendente",
 			},
 		},
 		reward = {
@@ -5528,14 +5528,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "The way of exceptional character",
+		title = "O caminho do caráter excepcional",
 		content = {
-			summary = "Job change to expanded classes",
+			summary = "Mudança de trabalho para classes expandidas",
 			details = "Taekwondo, Gunslinger, Super Novice or Ninja.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to expanded classes",
+				text = "Mudança de trabalho para classes expandidas",
 			},
 		},
 		reward = {
@@ -5548,14 +5548,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "This is My way!",
+		title = "Esse é meu jeito!",
 		content = {
-			summary = "Job change to expanded 2nd classes",
+			summary = "Mudança de trabalho para classes expandida 2nd",
 			details = "Soul Linker, Star Gladiator, Rebellion, Oboro or Kagerou.",
 		},
 		resource = {
 			[1] = {
-				text = "Expanded 2nd classes",
+				text = "Classes Expandida 2nd",
 			},
 		},
 		reward = {
@@ -5569,14 +5569,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Bearish Power!",
+		title = "Potência Baixa!",
 		content = {
-			summary = "Achieve base STR 90",
-			details = "Achieve 90 base STR or higher.",
+			summary = "Alcance a base de STR 90",
+			details = "Alcance 90 base de STR ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base STR 90º",
+				text = "Alcance a base STR 90º",
 			},
 		},
 		reward = {},
@@ -5587,14 +5587,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Overflowing Magic!",
+		title = "Mágica transbordante!",
 		content = {
-			summary = "Achieve base INT 90",
-			details = "Achieve 90 base INT or higher.",
+			summary = "Alcance a base INT 90",
+			details = "Alcance 90 base INT ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base INT 90",
+				text = "Alcance a base INT 90",
 			},
 		},
 		reward = {},
@@ -5605,14 +5605,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Healthy Body and Mental Health!",
+		title = "Corpo saudável e saúde mental!",
 		content = {
-			summary = "Achieve base VIT 90",
-			details = "Achieve 90 base VIT or higher.",
+			summary = "Alcance a base VIT 90",
+			details = "Alcance 90 base VIT ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base VIT 90",
+				text = "Alcance a base VIT 90",
 			},
 		},
 		reward = {},
@@ -5623,14 +5623,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Speed of Light",
+		title = "Velocidade da luz",
 		content = {
-			summary = "Achieve base AGI 90",
-			details = "Achieve 90 base AGI or higher.",
+			summary = "Alcance a base AGI 90",
+			details = "Alcance 90 base AGI ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base AGI 90",
+				text = "Alcance a base AGI 90",
 			},
 		},
 		reward = {},
@@ -5641,14 +5641,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Hawk Eyes",
+		title = "Olhos de falcão",
 		content = {
-			summary = "Achieve base DEX 90",
-			details = "Achieve 90 base DEX or higher.",
+			summary = "Alcance a base DEX 90",
+			details = "Alcance 90 base DEX ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base DEX 90",
+				text = "Alcance a base DEX 90",
 			},
 		},
 		reward = {},
@@ -5659,14 +5659,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Maximum Luck",
+		title = "Máxima sorte",
 		content = {
-			summary = "Achieve base LUK 90",
-			details = "Achieve 90 base LUK or higher.",
+			summary = "Alcance a base LUK 90",
+			details = "Alcance 90 base LUK ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base LUK 90",
+				text = "Alcance a base LUK 90",
 			},
 		},
 		reward = {},
@@ -5677,14 +5677,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Dragonlike Power!",
+		title = "poder Dragonlike!",
 		content = {
-			summary = "Achieve base STR 125",
-			details = "Achieve 125 base STR or higher.",
+			summary = "Alcance a base STR 125",
+			details = "Alcance 125 base STR ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base STR 125",
+				text = "Alcance a base STR 125",
 			},
 		},
 		reward = {
@@ -5697,14 +5697,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Magic Insanity",
+		title = "Insanidade mágica",
 		content = {
-			summary = "Achieve base INT 125",
-			details = "Achieve 125 base INT or higher.",
+			summary = "Alcance a base INT 125",
+			details = "Alcance 125 base INT ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base INT 125",
+				text = "Alcance a base INT 125",
 			},
 		},
 		reward = {
@@ -5717,14 +5717,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Rock Alloy",
+		title = "Liga Rocha",
 		content = {
-			summary = "Achieve base VIT 125",
-			details = "Achieve 125 base VIT or higher.",
+			summary = "Alcance a base VIT 125",
+			details = "Alcance 125 base VIT ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base VIT 125",
+				text = "Alcance a base VIT 125",
 			},
 		},
 		reward = {
@@ -5737,14 +5737,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Speed of Light",
+		title = "Velocidade da luz",
 		content = {
-			summary = "Achieve base AGI 125",
-			details = "Achieve 125 base AGI or higher.",
+			summary = "Alcance a base AGI 125",
+			details = "Alcance 125 base AGI ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base AGI 125",
+				text = "Alcance a base AGI 125",
 			},
 		},
 		reward = {
@@ -5757,14 +5757,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Falcon's Eyes",
+		title = "Olhos de falcão",
 		content = {
-			summary = "Achieve base DEX 125",
-			details = "Achieve 125 base DEX or higher.",
+			summary = "Alcance a base DEX 125",
+			details = "Alcance 125 base DEX ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base DEX 125",
+				text = "Alcance a base DEX 125",
 			},
 		},
 		reward = {
@@ -5777,14 +5777,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Lucky Fever",
+		title = "Febre afortunada",
 		content = {
-			summary = "Achieve base LUK 125",
-			details = "Achieve 125 base LUK or higher.",
+			summary = "Alcance a base LUK 125",
+			details = "Alcance 125 base LUK ou mais alto.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base LUK 125",
+				text = "Alcance a base LUK 125",
 			},
 		},
 		reward = {
@@ -5797,14 +5797,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Incarnation of Love and Hate",
+		title = "Encarnação do Amor e do Ódio",
 		content = {
-			summary = "Achieve 99 base level as Novice",
-			details = "Achieve 99 base level as Novice class.",
+			summary = "Alcance 99 Nível base como novice",
+			details = "Alcance 99 Nível base como classe novice.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 99 base level as Noviceº",
+				text = "Alcance 99 Nível base como noviceº",
 			},
 		},
 		reward = {
@@ -5818,14 +5818,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "I really love it!",
+		title = "eu realmente amo isso!",
 		content = {
-			summary = "Achieve 99 base level as 1st classes",
-			details = "Achieve 99 base level as 1st classes.",
+			summary = "Alcance 99 Nível base como 1ª classes",
+			details = "Alcance 99 Nível base como 1ª classes.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 99 base level as 1st classes",
+				text = "Alcance 99 Nível base as 1st classes",
 			},
 		},
 		reward = {
@@ -5839,14 +5839,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Reborn in Valhalla!",
+		title = "Renascido em Valhalla!",
 		content = {
-			summary = "Job change to transcendent Novice",
-			details = "Talk with Valkyrie to job change to transcendent Novice.",
+			summary = "Mudança de trabalho para principiante transcendente",
+			details = "Fale com a Valquíria para a mudança de emprego para iniciante transcendente.",
 		},
 		resource = {
 			[1] = {
-				text = "Job change to transcendent Novice",
+				text = "Mudança de trabalho para principiante transcendente",
 			},
 		},
 		reward = {
@@ -5860,14 +5860,14 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 1,
 		minor = 2,
-		title = "Community begin",
+		title = "Comunidade começa",
 		content = {
-			summary = "Create a chatroom",
-			details = "Let's create a chatroom. Press keyboard shortcut Alt+C.",
+			summary = "Criar uma sala de chat",
+			details = "Vamos criar uma sala de chat. Pressione o atalho do teclado Alt+C.",
 		},
 		resource = {
 			[1] = {
-				text = "Create a chatroom",
+				text = "Criar uma sala de chat",
 			},
 		},
 		reward = {},
@@ -7283,7 +7283,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 1",
+		title = "Alcance Level 1",
 		content = {
 			summary = "Reach Rank 1",
 			details = "Reach Rank 1.",
@@ -7304,7 +7304,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 2",
+		title = "Alcance Level 2",
 		content = {
 			summary = "Reach Rank 2",
 			details = "Reach Rank 2.",
@@ -7325,7 +7325,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 3",
+		title = "Alcance Level 3",
 		content = {
 			summary = "Reach Rank 3",
 			details = "Reach Rank 3.",
@@ -7346,7 +7346,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 4",
+		title = "Alcance Level 4",
 		content = {
 			summary = "Reach Rank 4",
 			details = "Reach Rank 4.",
@@ -7367,7 +7367,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 5",
+		title = "Alcance Level 5",
 		content = {
 			summary = "Reach Rank 5",
 			details = "Reach Rank 5.",
@@ -7388,7 +7388,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 6",
+		title = "Alcance Level 6",
 		content = {
 			summary = "Reach Rank 6",
 			details = "Reach Rank 6.",
@@ -7409,7 +7409,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 7",
+		title = "Alcance Level 7",
 		content = {
 			summary = "Reach Rank 7",
 			details = "Reach Rank 7.",
@@ -7430,7 +7430,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 8",
+		title = "Alcance Level 8",
 		content = {
 			summary = "Reach Rank 8",
 			details = "Reach Rank 8.",
@@ -7451,7 +7451,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 9",
+		title = "Alcance Level 9",
 		content = {
 			summary = "Reach Rank 9",
 			details = "Reach Rank 9.",
@@ -7472,7 +7472,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 10",
+		title = "Alcance Level 10",
 		content = {
 			summary = "Reach Rank 10",
 			details = "Reach Rank 10. Title will be rewarded.",
@@ -7494,7 +7494,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 11",
+		title = "Alcance Level 11",
 		content = {
 			summary = "Reach Rank 11",
 			details = "Reach Rank 11.",
@@ -7515,7 +7515,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 12",
+		title = "Alcance Level 12",
 		content = {
 			summary = "Reach Rank 12",
 			details = "Reach Rank 12.",
@@ -7536,7 +7536,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 13",
+		title = "Alcance Level 13",
 		content = {
 			summary = "Reach Rank 13",
 			details = "Reach Rank 13.",
@@ -7557,7 +7557,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 14",
+		title = "Alcance Level 14",
 		content = {
 			summary = "Reach Rank 14",
 			details = "Reach Rank 14.",
@@ -7578,7 +7578,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 15",
+		title = "Alcance Level 15",
 		content = {
 			summary = "Reach Rank 15",
 			details = "Reach Rank 15.",
@@ -7599,7 +7599,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 16",
+		title = "Alcance Level 16",
 		content = {
 			summary = "Reach Rank 16",
 			details = "Reach Rank 16.",
@@ -7620,7 +7620,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 17",
+		title = "Alcance Level 17",
 		content = {
 			summary = "Reach Rank 17",
 			details = "Reach Rank 17.",
@@ -7641,7 +7641,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 18",
+		title = "Alcance Level 18",
 		content = {
 			summary = "Reach Rank 18",
 			details = "Reach Rank 18.",
@@ -7662,7 +7662,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 19",
+		title = "Alcance Level 19",
 		content = {
 			summary = "Reach Rank 19",
 			details = "Reach Rank 19.",
@@ -7683,7 +7683,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Level 20",
+		title = "Alcance Level 20",
 		content = {
 			summary = "Reach Rank 20",
 			details = "Reach Rank 20. Title will be rewarded.",
