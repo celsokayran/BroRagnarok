@@ -6526,19 +6526,19 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = {
-				text = "Complete 'Poring - domesticando' desafio",
+				text = "Complete 'Poring - taming' challenge",
 				shortcut = 230101,
 			},
 			[2] = {
-				text = "Complete 'Drops - domesticando' desafio",
+				text = "Complete 'Drops - taming' challenge",
 				shortcut = 230102,
 			},
 			[3] = {
-				text = "Complete 'Poporing - domesticando' desafio",
+				text = "Complete 'Poporing - taming' challenge",
 				shortcut = 230103,
 			},
 			[4] = {
-				text = "Complete 'Novice Poring - domesticando' desafio",
+				text = "Complete 'Novice Poring - taming' challenge",
 				shortcut = 230104,
 			},
 		},
@@ -6550,7 +6550,7 @@ achievement_tbl = {
 	},
 	[230101] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Domesticando um Poring",
@@ -6568,7 +6568,7 @@ achievement_tbl = {
 	},
 	[230102] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Drops - domesticando",
@@ -6586,7 +6586,7 @@ achievement_tbl = {
 	},
 	[230103] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Poporing - domesticando",
@@ -6604,7 +6604,7 @@ achievement_tbl = {
 	},
 	[230104] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Novice Poring - domesticando",
@@ -6664,7 +6664,7 @@ achievement_tbl = {
 	},
 	[230111] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Chonchon - domesticando",
@@ -6682,7 +6682,7 @@ achievement_tbl = {
 	},
 	[230112] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Steel Chonchon - domesticando",
@@ -6700,15 +6700,13 @@ achievement_tbl = {
 	},
 	[230113] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Hunter Fly - domesticando",
 		content = {
 			summary = "Sucesso em domesticar Hunter Fly",
-			details = "
-55/5000
-Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro.",
+			details = "Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro.",
 		},
 		resource = {
 			[1] = {
@@ -6720,7 +6718,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230114] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Rocker - domesticando",
@@ -6738,7 +6736,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230115] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Spore - domesticando",
@@ -6756,13 +6754,13 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230116] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Poison Spore - domesticando",
 		content = {
 			summary = "Sucesso em domesticar Poison Spore",
-			details = "Vamos pegar um animal de estimação Poison Spore. Você pode usar "erva mortal nociva".",
+			details = "Vamos pegar um animal de estimação Poison Spore. Você pode usar 'erva mortal nociva'.",
 		},
 		resource = {
 			[1] = {
@@ -6824,7 +6822,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230121] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Lunatic - domesticando",
@@ -6842,7 +6840,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230122] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Picky - domesticando",
@@ -6860,7 +6858,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230123] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Savage Bebe - domesticando",
@@ -6878,13 +6876,13 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230124] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Baby Desert Wolf - domesticando",
 		content = {
 			summary = "Sucesso em domesticar Baby Desert Wolf",
-			details = "Vamos pegar um animal de estimação Baby Desert Wolf. Você pode usar "osso bem-seco".",
+			details = "Vamos pegar um animal de estimação Baby Desert Wolf. Você pode usar 'osso bem-seco'.",
 		},
 		resource = {
 			[1] = {
@@ -6896,7 +6894,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230125] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Smokie - domesticando",
@@ -6914,7 +6912,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230126] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Yoyo - domesticando",
@@ -6932,7 +6930,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230127] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Peco Peco - domesticando",
@@ -6950,7 +6948,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230128] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Petite - domesticando",
@@ -7014,7 +7012,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230141] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Munak - domesticando",
@@ -7032,7 +7030,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230142] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Isis - domesticando",
@@ -7050,7 +7048,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230143] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Sohee - domesticando",
@@ -7068,7 +7066,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230144] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Zherlthsh - domesticando",
@@ -7086,7 +7084,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230145] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Alice - domesticando",
@@ -7104,7 +7102,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230146] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Succubus - domesticando",
@@ -7122,7 +7120,7 @@ Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro."
 	},
 	[230147] = {
 		UI_Type = 0,
-		group = "domesticando",
+		group = "TAMING",
 		major = 3,
 		minor = 1,
 		title = "Loli Ruri - domesticando",
