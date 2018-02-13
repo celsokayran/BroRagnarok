@@ -5878,14 +5878,14 @@ achievement_tbl = {
 		group = "CHATTING_DYING",
 		major = 1,
 		minor = 2,
-		title = "A mouth only moment",
+		title = "Apena um momento meia boca",
 		content = {
-			summary = "Create a chatroom when KO'ed",
-			details = "Create a chatroom when KO'ed. Press keyboard shortcut Alt+C.",
+			summary = "Crie uma sala de chat quando AFK",
+			details = "Crie uma sala de chat quando AFK. Pressione o atalho do teclado Alt+C.",
 		},
 		resource = {
 			[1] = {
-				text = "Create a chatroom when KO'ed",
+				text = "Crie uma sala de chat quando AFK",
 			},
 		},
 		reward = {},
@@ -5896,14 +5896,14 @@ achievement_tbl = {
 		group = "CHATTING20",
 		major = 1,
 		minor = 2,
-		title = "Admiring the chatter",
+		title = "Admirando a converça",
 		content = {
-			summary = "Fill the chatroom with 20 people",
-			details = "Gather people and start chatting. Fill the chatroom with 20 people.",
+			summary = "Preencha o chat com 20 pessoas",
+			details = "Reúna pessoas e comece a conversar. Preencha o chat com 20 pessoas.",
 		},
 		resource = {
 			[1] = {
-				text = "Fill the chatroom with 20 people",
+				text = "Preencha o chat com 20 pessoas",
 			},
 		},
 		reward = {},
@@ -5914,14 +5914,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "My friend's friend~",
+		title = "Amigo do meu amigo~",
 		content = {
-			summary = "Add 1 person as a friend",
-			details = "Let's recruit a friend and start a journey together. Add 1 person as a friend.",
+			summary = "Adicione 1 pessoa como amigo",
+			details = "Vamos recrutar um amigo e começar uma jornada juntos. Adicione 1 pessoa como amigo.",
 		},
 		resource = {
 			[1] = {
-				text = "Add 1 person as a friend",
+				text = "Adicione 1 pessoa como amigo",
 			},
 		},
 		reward = {},
@@ -5932,14 +5932,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "A competition of popularity",
+		title = "Uma competição de popularidade",
 		content = {
-			summary = "Add 10 person as a friend",
-			details = "Let's recruit a friend and start a journey together. Add 10 person as a friend.",
+			summary = "Adicione 10 pessoas como amigo",
+			details = "Vamos recrutar um amigo e começar uma jornada juntos. Adicione 10 pessoas como amigo.",
 		},
 		resource = {
 			[1] = {
-				text = "Add 10 person as a friend",
+				text = "Adicione 10 pessoas como amigo",
 			},
 		},
 		reward = {},
@@ -5950,14 +5950,14 @@ achievement_tbl = {
 		group = "PARTY",
 		major = 1,
 		minor = 2,
-		title = "Let's Party~",
+		title = "Vamos de Party~",
 		content = {
-			summary = "Create a party",
-			details = "Adventuring alone is tough! Let's create a party.",
+			summary = "Crie uma party",
+			details = "Aventurar sozinho é difícil! Vamos criar uma party.",
 		},
 		resource = {
 			[1] = {
-				text = "Create a party",
+				text = "Crie uma party",
 			},
 		},
 		reward = {},
@@ -5968,14 +5968,14 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "Married with who..?",
+		title = "Casado com quem..?",
 		content = {
-			summary = "Succeed on marriage",
-			details = "Living in this world is tough, let's fill it with love. Let's get married with someone you love.",
+			summary = "Ter sucesso no casamento",
+			details = "Viver neste mundo é difícil, vamos preenchê-lo com amor. Vamos casar com alguém que você ama.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on marriage",
+				text = "Ter sucesso no casamento",
 			},
 		},
 		reward = {
@@ -5988,14 +5988,14 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Can you grow?",
+		title = "Você pode crescer?",
 		content = {
-			summary = "Adopted by parents",
-			details = "Overcome the tough world with the help of parents.",
+			summary = "Aprovado pelos pais",
+			details = "Superar o mundo difícil com a ajuda dos pais.",
 		},
 		resource = {
 			[1] = {
-				text = "Adopted by parents",
+				text = "Aprovado pelos pais",
 			},
 		},
 		reward = {
@@ -6008,14 +6008,14 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Being a parent",
+		title = "Sendo um pai",
 		content = {
-			summary = "Adopt a children",
-			details = "Get a happy children and create a beatiful family story through adoption.",
+			summary = "Adote um filho",
+			details = "Obtenha filhos felizes e crie uma bela história familiar através da adoção.",
 		},
 		resource = {
 			[1] = {
-				text = "Adopt a child",
+				text = "Adote um filho",
 			},
 		},
 		reward = {
@@ -6028,14 +6028,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activating the market economy (1)",
+		title = "Ativando a economia de mercado (1)",
 		content = {
-			summary = "Spend 10,000 zeny on vending merchant",
-			details = "There is turn around money law. Spend 10,000 zeny on vending merchant.",
+			summary = "Gaste 10.000 zeny no comerciante de venda",
+			details = "Há uma volta em torno da lei do dinheiro. Gaste 10.000 zeny no comerciante de venda.",
 		},
 		resource = {
 			[1] = {
-				text = "Spend 10,000 zeny on vending merchant",
+				text = "Gaste 10.000 zeny no comerciante de venda",
 				count = 10000,
 			},
 		},
@@ -6047,14 +6047,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activating the market economy (2)",
+		title = "Ativando a economia de mercado (2)",
 		content = {
-			summary = "Spend 100,000 zeny on vending merchant",
-			details = "There is turn around money law. Spend 100,000 zeny on vending merchant.",
+			summary = "Gaste 100.000 zeny no comerciante de venda",
+			details = "Há uma volta em torno da lei do dinheiro. Gaste 100.000 zeny no comerciante de venda.",
 		},
 		resource = {
 			[1] = {
-				text = "Spend 100,000 zeny on vending merchant",
+				text = "Gaste 100.000 zeny no comerciante de venda",
 				count = 1000000,
 			},
 		},
@@ -6066,14 +6066,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activating the market economy (3)",
+		title = "Ativando a economia de mercado (3)",
 		content = {
-			summary = "Spend 500,000 zeny on vending merchant",
-			details = "There is turn around money law. Spend 500,000 zeny on vending merchant.",
+			summary = "Gaste 500,000 zeny no comerciante de venda",
+			details = "Há uma volta em torno da lei do dinheiro. Gaste 500,000 zeny no comerciante de venda.",
 		},
 		resource = {
 			[1] = {
-				text = "Spend 500,000 zeny on vending merchant",
+				text = "Gaste 500,000 zeny no comerciante de venda",
 				count = 5000000,
 			},
 		},
@@ -6085,14 +6085,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activating the market economy (4)",
+		title = "Ativando a economia de mercado (4)",
 		content = {
-			summary = "Spend 1.000,000 zeny on vending merchant",
-			details = "There is turn around money law. Spend 1.000,000 zeny on vending merchant.",
+			summary = "Gaste 1.000.000 zeny no comerciante de venda",
+			details = "Há uma volta em torno da lei do dinheiro. Gaste 1.000.000 zeny no comerciante de venda.",
 		},
 		resource = {
 			[1] = {
-				text = "Spend 1.000,000 zeny on vending merchant",
+				text = "Gaste 1.000.000 zeny no comerciante de venda",
 				count = 100000000,
 			},
 		},
@@ -6104,14 +6104,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activating the market economy (5)",
+		title = "Ativando a economia de mercado (5)",
 		content = {
-			summary = "Spend 5.000,000 zeny on vending merchant",
-			details = "There is turn around money law. Spend 5.000,000 zeny on vending merchant.",
+			summary = "Gaste 5.000.000 zeny no comerciante de venda",
+			details = "Há uma volta em torno da lei do dinheiro. Gaste 5.000.000 zeny no comerciante de venda.",
 		},
 		resource = {
 			[1] = {
-				text = "Spend 5.000,000 zeny on vending merchant",
+				text = "Gaste 5.000.000 zeny no comerciante de venda",
 				count = 500000000,
 			},
 		},
@@ -6123,14 +6123,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (1)",
+		title = "Não posso deixar de refinar! (1)",
 		content = {
-			summary = "Succeed on refining level 1 weapon to +7",
-			details = "Where is my luck? Succeed on refining level 1 weapon to +7.",
+			summary = "Termine na refinação de arma de nível 1 para +7",
+			details = "Onde está a minha sorte? Termine na refinação de arma de nível 1 para +7.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 1 weapon to +7",
+				text = "Termine na refinação de arma de nível 1 para +7",
 			},
 		},
 		reward = {},
@@ -6141,14 +6141,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (2)",
+		title = "Não posso deixar de refinar! (2)",
 		content = {
-			summary = "Succeed on refining level 1 weapon to +12",
-			details = "Where is my luck? Succeed on refining level 1 weapon to +12.",
+			summary = "Termine em refinar arma de nível 1 para +12",
+			details = "Onde está a minha sorte? Termine em refinar arma de level 1 para +12.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 1 weapon to +12",
+				text = "Termine em refinar arma de nível 1 para +12",
 			},
 		},
 		reward = {},
@@ -6159,14 +6159,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (3)",
+		title = "Não posso deixar de refinar! (3)",
 		content = {
-			summary = "Succeed on refining level 2 weapon to +7",
-			details = "Where is my luck? Succeed on refining level 2 weapon to +7.",
+			summary = "Termine em refinar a arma de nível 2 para +7",
+			details = "Onde está a minha sorte? Termine em refinar a arma de nível 2 para +7.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 2 weapon to +7",
+				text = "Termine em refinar a arma de nível 2 para +7",
 			},
 		},
 		reward = {},
@@ -6177,14 +6177,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (4)",
+		title = "Não posso deixar de refinar! (4)",
 		content = {
-			summary = "Succeed on refining level 2 weapon to +12",
-			details = "Where is my luck? Succeed on refining level 2 weapon to +12.",
+			summary = "Termine em refinar a arma de nível 2 para +12",
+			details = "Onde está a minha sorte? Termine em refinar a arma de nível 2 para +12.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 2 weapon to +12",
+				text = "Termine em refinar a arma de nível 2 para +12",
 			},
 		},
 		reward = {},
@@ -6195,14 +6195,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (5)",
+		title = "Não posso deixar de refinar! (5)",
 		content = {
-			summary = "Succeed on refining level 3 weapon to +7",
-			details = "Where is my luck? Succeed on refining level 3 weapon to +7.",
+			summary = "Termine em refinar a arma de nível 3 para +7",
+			details = "Onde está a minha sorte? Termine em refinar uma arma de nível 3 para +7.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 3 weapon to +7",
+				text = "Termine em refinar a arma de nível 3 para +7",
 			},
 		},
 		reward = {},
@@ -6213,14 +6213,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (6)",
+		title = "Não posso deixar de refinar! (6)",
 		content = {
-			summary = "Succeed on refining level 3 weapon to +12",
-			details = "Where is my luck? Succeed on refining level 3 weapon to +12.",
+			summary = "Termine em refinar a arma de nível 3 para +12",
+			details = "Onde está a minha sorte? Termine em refinar uma arma de nível 3 para +12.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 3 weapon to +12",
+				text = "Termine em refinar a arma de nível 3 para +12",
 			},
 		},
 		reward = {},
@@ -6231,14 +6231,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (7)",
+		title = "Não posso deixar de refinar! (7)",
 		content = {
-			summary = "Succeed on refining level 4 weapon to +7",
-			details = "Where is my luck? Succeed on refining level 4 weapon to +7.",
+			summary = "Termine na refinação da arma de nível 4 para +7",
+			details = "Onde está a minha sorte? Termine na refinação da arma de nível 4 para +7.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 4 weapon to +7",
+				text = "Termine na refinação da arma de nível 4 para +7",
 			},
 		},
 		reward = {},
@@ -6249,14 +6249,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (8)",
+		title = "Não posso deixar de refinar! (8)",
 		content = {
-			summary = "Succeed on refining level 4 weapon to +12",
-			details = "Where is my luck? Succeed on refining level 4 weapon to +12.",
+			summary = "Termine na refinação da arma de nível 4 para +12",
+			details = "Onde está a minha sorte? Termine na refinação da arma de nível 4 para +12.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on refining level 4 weapon to +12",
+				text = "Termine na refinação da arma de nível 4 para +12",
 			},
 		},
 		reward = {},
@@ -6267,14 +6267,14 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "Human's greed has no ending..",
+		title = "A ganância do homem não tem fim..",
 		content = {
-			summary = "Experience the fail of refining",
-			details = "Human's greed has no ending and it's always repeat. But let's take a lesson from the mistake. Experience the fail of refining.",
+			summary = "Experimente a falha na refinação",
+			details = "A ganância do homem não tem fim e é sempre repetida. Mas vamos tirar uma lição do erro. Experimente a falha na refinação.",
 		},
 		resource = {
 			[1] = {
-				text = "Experience the fail of refining",
+				text = "Experimente a falha na refinaçãog",
 			},
 		},
 		reward = {},
@@ -6285,14 +6285,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (1)",
+		title = "Eu encontrei! (1)",
 		content = {
-			summary = "Obtain an item with worth of more than 100 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 100 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 100 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 100 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 100 zeny",
+				text = "Obter um item com valor superior a 100 zeny",
 			},
 		},
 		reward = {},
@@ -6303,14 +6303,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (2)",
+		title = "Eu encontrei! (2)",
 		content = {
-			summary = "Obtain an item with worth of more than 1,000 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 1,000 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 1,000 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 1,000 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 1,000 zeny",
+				text = "Obter um item com valor superior a 1,000 zeny",
 			},
 		},
 		reward = {},
@@ -6321,14 +6321,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (3)",
+		title = "Eu encontrei! (3)",
 		content = {
-			summary = "Obtain an item with worth of more than 5,000 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 5,000 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 5,000 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 5,000 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 5,000 zeny",
+				text = "Obter um item com valor superior a 5,000 zeny",
 			},
 		},
 		reward = {},
@@ -6339,14 +6339,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (4)",
+		title = "Eu encontrei! (4)",
 		content = {
-			summary = "Obtain an item with worth of more than 10,000 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 10,000 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 10,000 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 10,000 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 10,000 zeny",
+				text = "Obter um item com valor superior a 10,000 zeny",
 			},
 		},
 		reward = {},
@@ -6357,14 +6357,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (5)",
+		title = "Eu encontrei! (5)",
 		content = {
-			summary = "Obtain an item with worth of more than 50,000 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 50,000 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 50,000 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 50,000 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 50,000 zeny",
+				text = "Obter um item com valor superior a 50,000 zeny",
 			},
 		},
 		reward = {},
@@ -6375,14 +6375,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (6)",
+		title = "Eu encontrei! (6)",
 		content = {
-			summary = "Obtain an item with worth of more than 100,000 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 100,000 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 100,000 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 100,000 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 100,000 zeny",
+				text = "Obter um item com valor superior a 100,000 zeny",
 			},
 		},
 		reward = {},
@@ -6393,14 +6393,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (7)",
+		title = "Eu encontrei! (7)",
 		content = {
-			summary = "Obtain an item with worth of more than 150,000 zeny",
-			details = "I have a luck too! Obtain an item with worth of more than 150,000 zeny when sold to an NPC.",
+			summary = "Obter um item com valor superior a 150,000 zeny",
+			details = "Eu também tenho sorte! Obter um item com valor superior a 150,000 zeny quando vendido a um NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "Obtain an item with worth of more than 150,000 zeny",
+				text = "Obter um item com valor superior a 150,000 zeny",
 			},
 		},
 		reward = {},
@@ -6411,14 +6411,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (1)",
+		title = "Rei rico (1)",
 		content = {
-			summary = "Hold more than 10,000 zeny in pocket",
-			details = "Money is not everything, that because you're poor. Hold more than 10,000 zeny in pocket.",
+			summary = "Mantenha mais do que 10,000 zeny no bolso",
+			details = "O dinheiro não é tudo, porque você é pobre. Mantenha mais do que 10,000 zeny no bolso.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 10,000 zeny in pocket",
+				text = "Mantenha mais do que 10,000 zeny no bolso",
 			},
 		},
 		reward = {},
@@ -6429,14 +6429,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (2)",
+		title = "Rei rico (2)",
 		content = {
-			summary = "Hold more than 100,000 zeny in pocket",
-			details = "Money is not everything, that because you're poor. Hold more than 100,000 zeny in pocket.",
+			summary = "Mantenha mais do que 100,000 zeny no bolso",
+			details = "O dinheiro não é tudo, porque você é pobre. Mantenha mais do que 100,000 zeny no bolso.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 100,000 zeny in pocket",
+				text = "Mantenha mais do que 100,000 zeny no bolso",
 			},
 		},
 		reward = {},
@@ -6447,14 +6447,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (3)",
+		title = "Rei rico (3)",
 		content = {
-			summary = "Hold more than 1,000,000 zeny in pocket",
-			details = "Money is not everything, that because you're poor. Hold more than 1,000,000 zeny in pocket.",
+			summary = "Mantenha mais do que 1,000,000 zeny no bolso",
+			details = "O dinheiro não é tudo, porque você é pobre. Mantenha mais do que 1,000,000 zeny no bolso.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 1,000,000 zeny in pocket",
+				text = "Mantenha mais do que 1,000,000 zeny no bolso",
 			},
 		},
 		reward = {},
@@ -6465,14 +6465,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (4)",
+		title = "Rei rico (4)",
 		content = {
-			summary = "Hold more than 10,000,000 zeny in pocket",
-			details = "Money is not everything, that because you're poor. Hold more than 10,000,000 zeny in pocket.",
+			summary = "Mantenha mais do que 10,000,000 zeny no bolso",
+			details = "O dinheiro não é tudo, porque você é pobre. Mantenha mais do que 10,000,000 zeny no bolso.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 10,000,000 zeny in pocket",
+				text = "Mantenha mais do que 10,000,000 zeny no bolso",
 			},
 		},
 		reward = {},
@@ -6483,14 +6483,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (5)",
+		title = "Rei rico (5)",
 		content = {
-			summary = "Hold more than 100,000,000 zeny in pocket",
-			details = "Money is not everything, that because you're poor. Hold more than 100,000,000 zeny in pocket.",
+			summary = "Mantenha mais do que 100,000,000 zeny no bolso",
+			details = "O dinheiro não é tudo, porque você é pobre. Mantenha mais do que 100,000,000 zeny no bolso.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 100,000,000 zeny in pocket",
+				text = "Mantenha mais do que 100,000,000 zeny no bolso",
 			},
 		},
 		reward = {},
@@ -6501,14 +6501,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (6)",
+		title = "Rei rico (6)",
 		content = {
-			summary = "Hold more than 1,000,000,000 zeny in pocket",
-			details = "Money is not everything, that because you're poor. Hold more than 1,000,000,000 zeny in pocket.",
+			summary = "Mantenha mais do que 1,000,000,000 zeny no bolso",
+			details = "O dinheiro não é tudo, porque você é pobre. Mantenha mais do que 1,000,000,000 zeny no bolso.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 1,000,000,000 zeny in pocket",
+				text = "Mantenha mais do que 1,000,000,000 zeny no bolso",
 			},
 		},
 		reward = {},
@@ -6519,26 +6519,26 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Poring is Love",
+		title = "Poring é amor",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're the true enthusiasts of poring things!",
+			summary = "Complete todas as tarefas objetivas",
+			details = "Vocês são os verdadeiros entusiastas dos porings!",
 		},
 		resource = {
 			[1] = {
-				text = "Complete 'Poring - taming' challenge",
+				text = "Complete 'Poring - domesticando' desafio",
 				shortcut = 230101,
 			},
 			[2] = {
-				text = "Complete 'Drops - taming' challenge",
+				text = "Complete 'Drops - domesticando' desafio",
 				shortcut = 230102,
 			},
 			[3] = {
-				text = "Complete 'Poporing - taming' challenge",
+				text = "Complete 'Poporing - domesticando' desafio",
 				shortcut = 230103,
 			},
 			[4] = {
-				text = "Complete 'Novice Poring - taming' challenge",
+				text = "Complete 'Novice Poring - domesticando' desafio",
 				shortcut = 230104,
 			},
 		},
@@ -6550,17 +6550,17 @@ achievement_tbl = {
 	},
 	[230101] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Poring - taming",
+		title = "Domesticando um Poring",
 		content = {
-			summary = "Succeed on Taming Poring",
-			details = "Let's get a Poring pet. You can use 'Unripe Apple'.",
+			summary = "Sucesso ao domesticar um Poring",
+			details = "amos pegar um animal de estimação Poring. Você pode usar 'Maçã não madura'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Poring",
+				text = "Sucesso ao domesticar um Poring",
 			},
 		},
 		reward = {},
@@ -6568,17 +6568,17 @@ achievement_tbl = {
 	},
 	[230102] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Drops - taming",
+		title = "Drops - domesticando",
 		content = {
-			summary = "Succeed on Taming Drops",
-			details = "Let's get a Drops pet. You can use 'Orange Juice'.",
+			summary = "Sucesso em domesticar Drops",
+			details = "Vamos pegar um animal de estimação Drops. Você pode usar 'suco de laranja'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Drops",
+				text = "Sucesso em domesticar Drops",
 			},
 		},
 		reward = {},
@@ -6586,17 +6586,17 @@ achievement_tbl = {
 	},
 	[230103] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Poporing - taming",
+		title = "Poporing - domesticando",
 		content = {
-			summary = "Succeed on Taming Poporing",
-			details = "Let's get a Poporing pet. You can use 'Bitter Herb'.",
+			summary = "Sucesso ao domesticar um Poring",
+			details = "Vamos pegar um animal de estimação Poporing. Você pode usar 'erva amarga'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Poporing",
+				text = "Sucesso ao domesticar um Poring",
 			},
 		},
 		reward = {},
@@ -6604,17 +6604,17 @@ achievement_tbl = {
 	},
 	[230104] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Novice Poring - taming",
+		title = "Novice Poring - domesticando",
 		content = {
-			summary = "Succeed on Taming Novice Poring",
-			details = "Let's get a Novice Poring pet. You can use 'Little Unripe Apple'.",
+			summary = "Sucesso em domesticar um Novice Poring",
+			details = "Vamos pegar um animal de estimação Novice Poring. Você pode usar 'Pequena maça não madura'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Novice Poring",
+				text = "Sucesso em domesticar um Novice Poring",
 			},
 		},
 		reward = {},
@@ -6625,34 +6625,34 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Entomologist",
+		title = "Entomologista",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're awakened with the idea of collecting bugs to become a true Entomologist!",
+			summary = "Complete todos os objetivos dad tarefas",
+			details = "Você é despertado com a idéia de colecionar insetos para se tornar um verdadeiro entomologista!",
 		},
 		resource = {
 			[1] = {
-				text = "Complete 'Chonchon - taming' challenge",
+				text = "Complete 'Chonchon - domesticando' desafio",
 				shortcut = 230111,
 			},
 			[2] = {
-				text = "Complete 'Steel Chonchon - taming' challenge",
+				text = "Complete 'Steel Chonchon - domesticando' desafio",
 				shortcut = 230112,
 			},
 			[3] = {
-				text = "Complete 'Hunter Fly - taming' challenge",
+				text = "Complete 'Hunter Fly - domesticando' desafio",
 				shortcut = 230113,
 			},
 			[4] = {
-				text = "Complete 'Rocker - taming' challenge",
+				text = "Complete 'Rocker - domesticando' desafio",
 				shortcut = 230114,
 			},
 			[5] = {
-				text = "Complete 'Spore - taming' challenge",
+				text = "Complete 'Spore - domesticando' desafio",
 				shortcut = 230115,
 			},
 			[6] = {
-				text = "Complete 'Poison Spore - taming' challenge",
+				text = "Complete 'Poison Spore - domesticando' desafio",
 				shortcut = 230116,
 			},
 		},
@@ -6664,17 +6664,17 @@ achievement_tbl = {
 	},
 	[230111] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Chonchon - taming",
+		title = "Chonchon - domesticando",
 		content = {
-			summary = "Succeed on Taming Chonchon",
-			details = "Let's get a Chonchon pet. You can use 'Rotten Fish'.",
+			summary = "Sucesso em domesticar Chonchon",
+			details = "Vamos pegar um animal de estimação Chonchon. Você pode usar 'Peixe podre'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Chonchon",
+				text = "Sucesso em domesticar Chonchon",
 			},
 		},
 		reward = {},
@@ -6682,17 +6682,17 @@ achievement_tbl = {
 	},
 	[230112] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Steel Chonchon - taming",
+		title = "Steel Chonchon - domesticando",
 		content = {
-			summary = "Succeed on Taming Steel Chonchon",
-			details = "Let's get a Steel Chonchon pet. You can use 'Rusty Iron'.",
+			summary = "Sucesso em domesticar Steel Chonchon",
+			details = "Vamos pegar um animal de estimação Steel Chonchon. Você pode usar 'Ferro enferrujado'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Steel Chonchon",
+				text = "Sucesso em domesticar Steel Chonchon",
 			},
 		},
 		reward = {},
@@ -6700,17 +6700,19 @@ achievement_tbl = {
 	},
 	[230113] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Hunter Fly - taming",
+		title = "Hunter Fly - domesticando",
 		content = {
-			summary = "Succeed on Taming Hunter Fly",
-			details = "Let's get a Hunter Fly pet. You can use 'Monster Juice'.",
+			summary = "Sucesso em domesticar Hunter Fly",
+			details = "
+55/5000
+Vamos pegar um animal de estimação Hunter Fly. Você pode usar 'Suco de monstro.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Hunter Fly",
+				text = "Sucesso em domesticar Hunter Fly",
 			},
 		},
 		reward = {},
@@ -6718,17 +6720,17 @@ achievement_tbl = {
 	},
 	[230114] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Rocker - taming",
+		title = "Rocker - domesticando",
 		content = {
-			summary = "Succeed on Taming Rocker",
-			details = "Let's get a Rocker pet. You can use 'Singing Flower'.",
+			summary = "Sucesso em domesticar Rocker",
+			details = "Vamos pegar um animal de estimação Rocker. Você pode usar 'Flor de canto'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Rocker",
+				text = "Sucesso em domesticar Rocker",
 			},
 		},
 		reward = {},
@@ -6736,17 +6738,17 @@ achievement_tbl = {
 	},
 	[230115] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Spore - taming",
+		title = "Spore - domesticando",
 		content = {
-			summary = "Succeed on Taming Spore",
-			details = "Let's get a Spore pet. You can use 'Dew Laden Moss'.",
+			summary = "Sucesso em domesticar Spore",
+			details = "Vamos pegar um animal de estimação Spore. Você pode usar 'Dew Laden Moss'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Spore",
+				text = "Sucesso em domesticar Spore",
 			},
 		},
 		reward = {},
@@ -6754,17 +6756,17 @@ achievement_tbl = {
 	},
 	[230116] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Poison Spore - taming",
+		title = "Poison Spore - domesticando",
 		content = {
-			summary = "Succeed on Taming Poison Spore",
-			details = "Let's get a Poison Spore pet. You can use 'Deadly Noxious Herb'.",
+			summary = "Sucesso em domesticar Poison Spore",
+			details = "Vamos pegar um animal de estimação Poison Spore. Você pode usar "erva mortal nociva".",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Poison Spore",
+				text = "Sucesso em domesticar Poison Spore",
 			},
 		},
 		reward = {},
@@ -6775,42 +6777,42 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Animals are also our friend",
+		title = "Os animais também são nosso amigo",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're awakened with the idea of becoming the true animal lover!",
+			summary = "Complete todos os objetivos das tarefas",
+			details = "Você é despertado com a idéia de se tornar o verdadeiro amante dos animais!",
 		},
 		resource = {
 			[1] = {
-				text = "Complete 'Lunatic - taming' challenge",
+				text = "Complete 'Lunatic - domesticando' desafio",
 				shortcut = 230121,
 			},
 			[2] = {
-				text = "Complete 'Picky - taming' challenge",
+				text = "Complete 'Picky - domesticando' desafio",
 				shortcut = 230122,
 			},
 			[3] = {
-				text = "Complete 'Savage Bebe - taming' challenge",
+				text = "Complete 'Savage Bebe - domesticando' desafio",
 				shortcut = 230123,
 			},
 			[4] = {
-				text = "Complete 'Baby Desert Wolf - taming' challenge",
+				text = "Complete 'Baby Desert Wolf - domesticando' desafio",
 				shortcut = 230124,
 			},
 			[5] = {
-				text = "Complete 'Smokie - taming' challenge",
+				text = "Complete 'Smokie - domesticando' desafio",
 				shortcut = 230125,
 			},
 			[6] = {
-				text = "Complete 'Yoyo - taming' challenge",
+				text = "Complete 'Yoyo - domesticando' desafio",
 				shortcut = 230126,
 			},
 			[7] = {
-				text = "Complete 'Peco Peco - taming' challenge",
+				text = "Complete 'Peco Peco - domesticando' desafio",
 				shortcut = 230127,
 			},
 			[8] = {
-				text = "Complete 'Petite - taming' challenge",
+				text = "Complete 'Petite - domesticando' desafio",
 				shortcut = 230128,
 			},
 		},
@@ -6822,17 +6824,17 @@ achievement_tbl = {
 	},
 	[230121] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Lunatic - taming",
+		title = "Lunatic - domesticando",
 		content = {
-			summary = "Succeed on Taming Lunatic",
-			details = "Let's get a Lunatic pet. You can use 'Rainbow Carrot'.",
+			summary = "Sucesso em domesticar Lunatic",
+			details = "Vamos pegar um animal de estimação Lunatic. Você pode usar 'Cenoura de arco-íris'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Lunatic",
+				text = "Sucesso em domesticar Lunatic",
 			},
 		},
 		reward = {},
@@ -6840,17 +6842,17 @@ achievement_tbl = {
 	},
 	[230122] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Picky - taming",
+		title = "Picky - domesticando",
 		content = {
-			summary = "Succeed on Taming Picky",
-			details = "Let's get a Picky pet. You can use 'Earthworm the Dude'.",
+			summary = "Sucesso em domesticar Picky",
+			details = "Vamos pegar um animal de estimação Picky. Você pode usar 'Earthworm the Dude'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Picky",
+				text = "Sucesso em domesticar Picky",
 			},
 		},
 		reward = {},
@@ -6858,17 +6860,17 @@ achievement_tbl = {
 	},
 	[230123] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Savage Bebe - taming",
+		title = "Savage Bebe - domesticando",
 		content = {
-			summary = "Succeed on Taming Savage Bebe",
-			details = "Let's get a Savage Bebe pet. You can use 'Sweet Milk'.",
+			summary = "Sucesso em domesticar Savage Bebe",
+			details = "Vamos pegar um animal de estimação Savage Bebe. Você pode usar 'Doce De Leite'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Savage Bebe",
+				text = "Sucesso em domesticar Savage Bebe",
 			},
 		},
 		reward = {},
@@ -6876,17 +6878,17 @@ achievement_tbl = {
 	},
 	[230124] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Baby Desert Wolf - taming",
+		title = "Baby Desert Wolf - domesticando",
 		content = {
-			summary = "Succeed on Taming Baby Desert Wolf",
-			details = "Let's get a Baby Desert Wolf pet. You can use 'Well-Dried Bone'.",
+			summary = "Sucesso em domesticar Baby Desert Wolf",
+			details = "Vamos pegar um animal de estimação Baby Desert Wolf. Você pode usar "osso bem-seco".",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Baby Desert Wolf",
+				text = "Sucesso em domesticar Baby Desert Wolf",
 			},
 		},
 		reward = {},
@@ -6894,17 +6896,17 @@ achievement_tbl = {
 	},
 	[230125] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Smokie - taming",
+		title = "Smokie - domesticando",
 		content = {
-			summary = "Succeed on Taming Smokie",
-			details = "Let's get a Smokie pet. You can use 'Baked Yam'.",
+			summary = "Sucesso em domesticar Smokie",
+			details = "Vamos pegar um animal de estimação Smokie. Você pode usar 'Yam cozido'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Smokie",
+				text = "Sucesso em domesticar Smokie",
 			},
 		},
 		reward = {},
@@ -6912,17 +6914,17 @@ achievement_tbl = {
 	},
 	[230126] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Yoyo - taming",
+		title = "Yoyo - domesticando",
 		content = {
-			summary = "Succeed on Taming Yoyo",
-			details = "Let's get a Yoyo pet. You can use 'Tropical Banana'.",
+			summary = "Sucesso em domesticar Yoyo",
+			details = "Vamos pegar um animal de estimação Yoyo. Você pode usar 'Banana Tropical'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Yoyo",
+				text = "Sucesso em domesticar Yoyo",
 			},
 		},
 		reward = {},
@@ -6930,17 +6932,17 @@ achievement_tbl = {
 	},
 	[230127] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Peco Peco - taming",
+		title = "Peco Peco - domesticando",
 		content = {
-			summary = "Succeed on Taming Peco Peco",
-			details = "Let's get a Peco Peco pet. You can use 'Fatty Chubby Earthworm'.",
+			summary = "Sucesso em domesticar Peco Peco",
+			details = "Vamos pegar um animal de estimação Peco Peco. Você pode usar 'Fatty Chubby Earthworm'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Peco Peco",
+				text = "Sucesso em domesticar Peco Peco",
 			},
 		},
 		reward = {},
@@ -6948,17 +6950,17 @@ achievement_tbl = {
 	},
 	[230128] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Petite - taming",
+		title = "Petite - domesticando",
 		content = {
-			summary = "Succeed on Taming Petite",
-			details = "Let's get a Petite pet. You can use 'Shining Stone'.",
+			summary = "Sucesso em domesticar Petite",
+			details = "Vamos pegar um pequeno animal de estimação. Você pode usar 'pedra brilhante'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Petite",
+				text = "Sucesso em domesticar Petite",
 			},
 		},
 		reward = {},
@@ -6969,38 +6971,38 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Monster Girls Unite!!",
+		title = "Garotas monstruosas unidas!!",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're awakened with the idea of becoming the producer of monster girls!",
+			summary = "Complete todos os objetivos das tarefas",
+			details = "Você está acordado com a idéia de se tornar o produtor de garotas monstruosa",
 		},
 		resource = {
 			[1] = {
-				text = "Complete 'Munak - taming' challenge",
+				text = "Complete 'Munak - domesticando' desafio",
 				shortcut = 230141,
 			},
 			[2] = {
-				text = "Complete 'Isis - taming' challenge",
+				text = "Complete 'Isis - domesticando' desafio",
 				shortcut = 230142,
 			},
 			[3] = {
-				text = "Complete 'Sohee - taming' challenge",
+				text = "Complete 'Sohee - domesticando' desafio",
 				shortcut = 230143,
 			},
 			[4] = {
-				text = "Complete 'Zherlthsh - taming' challenge",
+				text = "Complete 'Zherlthsh - domesticando' desafio",
 				shortcut = 230144,
 			},
 			[5] = {
-				text = "Complete 'Alice - taming' challenge",
+				text = "Complete 'Alice - domesticando' desafio",
 				shortcut = 230145,
 			},
 			[6] = {
-				text = "Complete 'Succubus - taming' challenge",
+				text = "Complete 'Succubus - domesticando' desafio",
 				shortcut = 230146,
 			},
 			[7] = {
-				text = "Complete 'Loli Ruri - taming' challenge",
+				text = "Complete 'Loli Ruri - domesticando' desafio",
 				shortcut = 230147,
 			},
 		},
@@ -7012,17 +7014,17 @@ achievement_tbl = {
 	},
 	[230141] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Munak - taming",
+		title = "Munak - domesticando",
 		content = {
-			summary = "Succeed on Taming Munak",
-			details = "Let's get a Munak pet. You can use 'No Recipient'.",
+			summary = "Sucesso em domesticar Munak",
+			details = "Vamos pegar um animal de estimação Munak. Você pode usar 'Nenhum recipiente'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Munak",
+				text = "Sucesso em domesticar Munak",
 			},
 		},
 		reward = {},
@@ -7030,17 +7032,17 @@ achievement_tbl = {
 	},
 	[230142] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Isis - taming",
+		title = "Isis - domesticando",
 		content = {
-			summary = "Succeed on Taming Isis",
-			details = "Let's get a Isis pet. You can use 'Armlet of Obedience'.",
+			summary = "Sucesso em domesticar Isis",
+			details = "Vamos pegar um animal de estimação Isis. Você pode usar 'Amuleto de Obediência'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Isis",
+				text = "Sucesso em domesticar Isis",
 			},
 		},
 		reward = {},
@@ -7048,17 +7050,17 @@ achievement_tbl = {
 	},
 	[230143] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Sohee - taming",
+		title = "Sohee - domesticando",
 		content = {
-			summary = "Succeed on Taming Sohee",
-			details = "Let's get a Sohee pet. You can use 'Silver Knife of Chastity'.",
+			summary = "Sucesso em domesticar Sohee",
+			details = "Vamos pegar um animal de estimação Sohee. Você pode usar 'Faca de prata da castidade'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Sohee",
+				text = "Sucesso em domesticar Sohee",
 			},
 		},
 		reward = {},
@@ -7066,17 +7068,17 @@ achievement_tbl = {
 	},
 	[230144] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Zherlthsh - taming",
+		title = "Zherlthsh - domesticando",
 		content = {
-			summary = "Succeed on Taming Zherlthsh",
-			details = "Let's get a Zherlthsh pet. You can use 'Forbidden Red Candle'.",
+			summary = "Sucesso em domesticar Zherlthsh",
+			details = "Vamos pegar um animal de estimação Zherlthsh. Você pode usar 'Vela Vermelha Proibida'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Zherlthsh",
+				text = "Sucesso em domesticar Zherlthsh",
 			},
 		},
 		reward = {},
@@ -7084,17 +7086,17 @@ achievement_tbl = {
 	},
 	[230145] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Alice - taming",
+		title = "Alice - domesticando",
 		content = {
-			summary = "Succeed on Taming Alice",
-			details = "Let's get a Alice pet. You can use 'Soft Apron'.",
+			summary = "Sucesso em domesticar Alice",
+			details = "Vamos pegar um animal de estimação de Alice. Você pode usar 'Avental macio'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Alice",
+				text = "Sucesso em domesticar Alice",
 			},
 		},
 		reward = {},
@@ -7102,17 +7104,17 @@ achievement_tbl = {
 	},
 	[230146] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Succubus - taming",
+		title = "Succubus - domesticando",
 		content = {
-			summary = "Succeed on Taming Succubus",
-			details = "Let's get a Succubus pet. You can use 'Boy's Pure Heart'.",
+			summary = "Sucesso em domesticar Succubus",
+			details = "Vamos pegar um animal de estimação Succubus. Você pode usar 'Coração puro do menino'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Succubus",
+				text = "Sucesso em domesticar Succubus",
 			},
 		},
 		reward = {},
@@ -7120,17 +7122,17 @@ achievement_tbl = {
 	},
 	[230147] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "domesticando",
 		major = 3,
 		minor = 1,
-		title = "Loli Ruri - taming",
+		title = "Loli Ruri - domesticando",
 		content = {
-			summary = "Succeed on Taming Loli Ruri",
-			details = "Let's get a Loli Ruri pet. You can use 'Very Red Juice'.",
+			summary = "Sucesso em domesticar Loli Ruri",
+			details = "Vamos pegar um animal de estimação Loli Ruri. Você pode usar 'Suco muito vermelho'.",
 		},
 		resource = {
 			[1] = {
-				text = "Succeed on Taming Loli Ruri",
+				text = "Sucesso em domesticar Loli Ruri",
 			},
 		},
 		reward = {},
@@ -7141,22 +7143,22 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Poring seeker",
+		title = "buscador de Poring",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "Poring is a strange creature, neither plant nor animal. To learn more about Poring, the best way is to experience face-to-face directly.",
+			summary = "Complete todos os objetivos das tarefas",
+			details = "Poring é uma criatura estranha, nem planta nem animal. Para saber mais sobre o Poring, a melhor maneira é experimentar cara a cara diretamente.",
 		},
 		resource = {
 			[1] = {
-				text = "Complete 'Exploring Poring's life (1)' challenge",
+				text = "Complete 'Explore a vida dos Poring's (1)' desafio",
 				shortcut = 230201,
 			},
 			[2] = {
-				text = "Complete 'Exploring Poring's life (2)' challenge",
+				text = "Complete 'Explore a vida dos Poring's (2)' desafio",
 				shortcut = 230202,
 			},
 			[3] = {
-				text = "Complete 'Exploring Poring's life (3)' challenge",
+				text = "Complete 'Explore a vida dos Poring's (3)' desafio",
 				shortcut = 230203,
 			},
 		},
@@ -7168,30 +7170,30 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (1)",
+		title = "Explore a vida dos Poring's (1)",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "The appearance of poring affected by their habitat. Let's face an easy opponent.",
+			summary = "Caçando o objeto visado",
+			details = "O aparecimento de debruçado afetados por seu habitat. Vamos enfrentar um oponente fácil.",
 		},
 		resource = {
 			[1] = {
-				text = "Hunt 10 Poring",
+				text = "cace 10 Poring",
 				count = 10,
 			},
 			[2] = {
-				text = "Hunt 10 Novice Poring",
+				text = "cace 10 Novice Poring",
 				count = 10,
 			},
 			[3] = {
-				text = "Hunt 10 Drops",
+				text = "cace 10 Drops",
 				count = 10,
 			},
 			[4] = {
-				text = "Hunt 10 Poporing",
+				text = "cace 10 Poporing",
 				count = 10,
 			},
 			[5] = {
-				text = "Hunt 10 Marin",
+				text = "cace 10 Marin",
 				count = 10,
 			},
 		},
@@ -7203,30 +7205,30 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (2)",
+		title = "Explore a vida dos Poring's (2)",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "There is also a strong one in Poring world. Let's not directly face the strong one.",
+			summary = "Caçando o objeto visado",
+			details = "Há também um forte no mundo de Poring. Não vamos diretamente enfrentar o forte.",
 		},
 		resource = {
 			[1] = {
-				text = "Hunt 1 Mastering",
+				text = "cace 1 Mastering",
 				count = 1,
 			},
 			[2] = {
-				text = "Hunt 1 Devilring",
+				text = "cace 1 Devilring",
 				count = 1,
 			},
 			[3] = {
-				text = "Hunt 1 Angelring",
+				text = "cace 1 Angelring",
 				count = 1,
 			},
 			[4] = {
-				text = "Hunt 1 Arch Angelring",
+				text = "cace 1 Arch Angelring",
 				count = 1,
 			},
 			[5] = {
-				text = "Hunt 1 Ghostring",
+				text = "cace 1 Ghostring",
 				count = 1,
 			},
 		},
@@ -7238,22 +7240,22 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (3)",
+		title = "Explore a vida dos Poring's (3)",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "In Poring family, there are porings that has a glowing appearance. A further research is required.",
+			summary = "Caçando o objeto visado",
+			details = "Na família Poring, há porings que têm uma aparência brilhante. É necessária uma pesquisa adicional.",
 		},
 		resource = {
 			[1] = {
-				text = "Hunt 5 Metalring",
+				text = "cace 5 Metalring",
 				count = 5,
 			},
 			[2] = {
-				text = "Hunt 5 Heavy Metalring",
+				text = "cace 5 Heavy Metalring",
 				count = 5,
 			},
 			[3] = {
-				text = "Hunt 5 Magmaring",
+				text = "cace 5 Magmaring",
 				count = 5,
 			},
 		},
@@ -7265,14 +7267,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 6,
 		minor = 0,
-		title = "Complete challenges after first introduction",
+		title = "Completa desafios após a primeira introdução",
 		content = {
-			summary = "Complete challenges after first introduction.",
-			details = "Complete challenges after first introduction.",
+			summary = "Completa desafios após a primeira introdução.",
+			details = "Completa desafios após a primeira introdução.",
 		},
 		resource = {
 			[1] = {
-				text = "Complete challenges after first introduction",
+				text = "Completa desafios após a primeira introdução",
 			},
 		},
 		reward = {},
@@ -7285,12 +7287,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 1",
 		content = {
-			summary = "Reach Rank 1",
-			details = "Reach Rank 1.",
+			summary = "Alcance da classificação 1",
+			details = "Alcance da classificação 1.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 1",
+				text = "Alcançando Rank 1",
 			},
 		},
 		reward = {
@@ -7306,12 +7308,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 2",
 		content = {
-			summary = "Reach Rank 2",
-			details = "Reach Rank 2.",
+			summary = "Alcance da classificação 2",
+			details = "Alcance da classificação 2.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 2",
+				text = "Alcançando Rank 2",
 			},
 		},
 		reward = {
@@ -7327,12 +7329,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 3",
 		content = {
-			summary = "Reach Rank 3",
-			details = "Reach Rank 3.",
+			summary = "Alcance da classificação 3",
+			details = "Alcance da classificação 3.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 3",
+				text = "Alcançando Rank 3",
 			},
 		},
 		reward = {
@@ -7348,12 +7350,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 4",
 		content = {
-			summary = "Reach Rank 4",
-			details = "Reach Rank 4.",
+			summary = "Alcance da classificação 4",
+			details = "Alcance da classificação 4.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 4",
+				text = "Alcançando Rank 4",
 			},
 		},
 		reward = {
@@ -7369,12 +7371,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 5",
 		content = {
-			summary = "Reach Rank 5",
-			details = "Reach Rank 5.",
+			summary = "Alcance da classificação 5",
+			details = "Alcance da classificação 5.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 5",
+				text = "Alcançando Rank 5",
 			},
 		},
 		reward = {
@@ -7390,12 +7392,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 6",
 		content = {
-			summary = "Reach Rank 6",
-			details = "Reach Rank 6.",
+			summary = "Alcance da classificação 6",
+			details = "Alcance da classificação 6.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 6",
+				text = "Alcançando Rank 6",
 			},
 		},
 		reward = {
@@ -7411,12 +7413,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 7",
 		content = {
-			summary = "Reach Rank 7",
-			details = "Reach Rank 7.",
+			summary = "Alcance da classificação 7",
+			details = "Alcance da classificação 7.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 7",
+				text = "Alcançando Rank 7",
 			},
 		},
 		reward = {
@@ -7432,12 +7434,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 8",
 		content = {
-			summary = "Reach Rank 8",
-			details = "Reach Rank 8.",
+			summary = "Alcance da classificação 8",
+			details = "Alcance da classificação 8.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 8",
+				text = "Alcançando Rank 8",
 			},
 		},
 		reward = {
@@ -7453,12 +7455,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 9",
 		content = {
-			summary = "Reach Rank 9",
-			details = "Reach Rank 9.",
+			summary = "Alcance da classificação 9",
+			details = "Alcance da classificação 9.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 9",
+				text = "Alcançando Rank 9",
 			},
 		},
 		reward = {
@@ -7474,12 +7476,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 10",
 		content = {
-			summary = "Reach Rank 10",
-			details = "Reach Rank 10. Title will be rewarded.",
+			summary = "Alcance da classificação 10",
+			details = "Alcance da classificação 10. Title will be rewarded.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 10",
+				text = "Alcançando Rank 10",
 			},
 		},
 		reward = {
@@ -7496,12 +7498,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 11",
 		content = {
-			summary = "Reach Rank 11",
-			details = "Reach Rank 11.",
+			summary = "Alcance da classificação 11",
+			details = "Alcance da classificação 11.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 11",
+				text = "Alcançando Rank 11",
 			},
 		},
 		reward = {
@@ -7517,12 +7519,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 12",
 		content = {
-			summary = "Reach Rank 12",
-			details = "Reach Rank 12.",
+			summary = "Alcance da classificação 12",
+			details = "Alcance da classificação 12.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 12",
+				text = "Alcançando Rank 12",
 			},
 		},
 		reward = {
@@ -7538,12 +7540,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 13",
 		content = {
-			summary = "Reach Rank 13",
-			details = "Reach Rank 13.",
+			summary = "Alcance da classificação 13",
+			details = "Alcance da classificação 13.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 13",
+				text = "Alcançando Rank 13",
 			},
 		},
 		reward = {
@@ -7559,12 +7561,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 14",
 		content = {
-			summary = "Reach Rank 14",
-			details = "Reach Rank 14.",
+			summary = "Alcance da classificação 14",
+			details = "Alcance da classificação 14.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 14",
+				text = "Alcançando Rank 14",
 			},
 		},
 		reward = {
@@ -7580,12 +7582,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 15",
 		content = {
-			summary = "Reach Rank 15",
-			details = "Reach Rank 15.",
+			summary = "Alcance da classificação 15",
+			details = "Alcance da classificação 15.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 15",
+				text = "Alcançando Rank 15",
 			},
 		},
 		reward = {
@@ -7601,12 +7603,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 16",
 		content = {
-			summary = "Reach Rank 16",
-			details = "Reach Rank 16.",
+			summary = "Alcance da classificação 16",
+			details = "Alcance da classificação 16.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 16",
+				text = "Alcançando Rank 16",
 			},
 		},
 		reward = {
@@ -7622,12 +7624,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 17",
 		content = {
-			summary = "Reach Rank 17",
-			details = "Reach Rank 17.",
+			summary = "Alcance da classificação 17",
+			details = "Alcance da classificação 17.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 17",
+				text = "Alcançando Rank 17",
 			},
 		},
 		reward = {
@@ -7643,12 +7645,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 18",
 		content = {
-			summary = "Reach Rank 18",
-			details = "Reach Rank 18.",
+			summary = "Alcance da classificação 18",
+			details = "Alcance da classificação 18.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 18",
+				text = "Alcançando Rank 18",
 			},
 		},
 		reward = {
@@ -7664,12 +7666,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 19",
 		content = {
-			summary = "Reach Rank 19",
-			details = "Reach Rank 19.",
+			summary = "Alcance da classificação 19",
+			details = "Alcance da classificação 19.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 19",
+				text = "Alcançando Rank 19",
 			},
 		},
 		reward = {
@@ -7685,12 +7687,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alcance Level 20",
 		content = {
-			summary = "Reach Rank 20",
-			details = "Reach Rank 20. Title will be rewarded.",
+			summary = "Alcance da classificação 20",
+			details = "Alcance da classificação 20. Title will be rewarded.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieving Rank 20",
+				text = "Alcançando Rank 20",
 			},
 		},
 		reward = {
