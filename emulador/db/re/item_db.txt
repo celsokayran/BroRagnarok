@@ -1345,7 +1345,7 @@
 //-2038
 //-2039
 //-2040
-2041,Cajado_da_Bruxa,Cajado da Bruxa,5,100,,270,20,0,,1,0xFFFFFFFF,63,2,34,4,130,1,23,{ .@r = getrefine(); if (getskilllv("SO_FIREWALK") > 0) { bonus2 bMagicAtkEle,Ele_Fire,.@r*10; } if (getskilllv("SO_ELECTRICWALK") > 0) { bonus2 bMagicAtkEle,Ele_Wind,.@r*10; } bonus bUnbreakableWeapon,0; bonus bMatk,350; bonus bInt,5; bonus bDex,10; bonus bVariableCastrate,-30; bonus2 bIgnoreMdefClassRate,Class_Normal,.@r/2*5; bonus2 bSubEle,Ele_Fire,.@r/2*5; bonus2 bSubEle,Ele_Wind,.@r/2*5; bonus2 bSkillAtk,SO_FIREWALK,.@r/2*30; bonus2 bSkillAtk,SO_ELECTRICWALK,.@r/2*30; if ( .@r > 8 ) { bonus3 bAddEffOnSkill,SO_ELECTRICWALK,Eff_Silence,1000; bonus3 bAddEffOnSkill,SO_FIREWALK,Eff_Curse,1000; } if ( .@r > 10 ) { bonus2 bSkillAtk,SO_FIREWALK,100; bonus2 bSkillAtk,SO_ELECTRICWALK,100; } if ( .@r > 11 ) { bonus bFixedCastrate,-70; } },{},{}
+2041,Cajado_da_Bruxa_,Cajado da Bruxa,5,100,,270,20,0,,1,0xFFFFFFFF,63,2,34,4,130,1,23,{ .@r = getrefine(); if (getskilllv("SO_FIREWALK") > 0) { bonus2 bMagicAtkEle,Ele_Fire,.@r*10; } if (getskilllv("SO_ELECTRICWALK") > 0) { bonus2 bMagicAtkEle,Ele_Wind,.@r*10; } bonus bUnbreakableWeapon,0; bonus bMatk,350; bonus bInt,5; bonus bDex,10; bonus bVariableCastrate,-30; bonus2 bIgnoreMdefClassRate,Class_Normal,.@r/2*5; bonus2 bSubEle,Ele_Fire,.@r/2*5; bonus2 bSubEle,Ele_Wind,.@r/2*5; bonus2 bSkillAtk,SO_FIREWALK,.@r/2*30; bonus2 bSkillAtk,SO_ELECTRICWALK,.@r/2*30; if ( .@r > 8 ) { bonus3 bAddEffOnSkill,SO_ELECTRICWALK,Eff_Silence,1000; bonus3 bAddEffOnSkill,SO_FIREWALK,Eff_Curse,1000; } if ( .@r > 10 ) { bonus2 bSkillAtk,SO_FIREWALK,100; bonus2 bSkillAtk,SO_ELECTRICWALK,100; } if ( .@r > 11 ) { bonus bFixedCastrate,-70; } },{},{}
 //-2042
 //-2043
 //-2044
@@ -2901,7 +2901,7 @@
 //-4622,RO_Dalcom_Card
 //-4623
 4625,Time_Holder_Card,Time Holder Card,6,10,,10,,,,,,,,2,,,,,{ bonus bMatkRate,20; bonus bUseSPrate,10; },{},{}
-4624,Carta_Tao_Gunka_Selada,Carta Tao Gunka Selada,6,10,,10,,,,,,,,2,,,,,{  .@r = getequiprefinerycnt(EQI_ARMOR); if(.@r < 15) { bonus bMaxHPRate,50; bonus bDef2Rate,-50; bonus bMdefRate,-50; } else ( .@r >= 15 ) { bonus bMaxHPRate,75; bonus bDef2Rate,-50; bonus bMdefRate,-50; }},{},{}
+4624,Carta_Tao_Gunka_Selada,Carta Tao Gunka Selada,6,10,,10,,,,,,,,2,,,,,{  .@r = getequiprefinerycnt(EQI_ARMOR); if(.@r < 15) { bonus bMaxHPRate,50; bonus bDef2Rate,-50; bonus bMdefRate,-50; } else { bonus bMaxHPRate,75; bonus bDef2Rate,-50; bonus bMdefRate,-50; }},{},{}
 4626,Big_Ben_Card,Big Ben Card,6,10,,10,,,,,,,,2,,,,,{ bonus2 bMagicAddRace,RC_Formless,5; bonus2 bMagicAddRace,RC_Demon,5; },{},{}
 4627,Big_Bell_Card,Big Bell Card,6,10,,10,,,,,,,,2,,,,,{ bonus2 bAddRace,RC_Formless,10; bonus2 bAddRace,RC_Demon,10; },{},{}
 4628,Neo_Punk_Card,Neo Punk Card,6,10,,10,,,,,0xFFFFFFFF,63,2,32,,,,,{ bonus2 bSubRace,RC_Formless,20; bonus2 bSubRace,RC_Demon,20; },{},{}
