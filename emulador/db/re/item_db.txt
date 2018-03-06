@@ -12902,7 +12902,7 @@
 20392,C_Sniper_Google,Costume Sniper Google,4,0,,0,,,,0,0xFFFFFFFF,63,2,3072,,1,0,625,{},{},{}
 20393,C_Schmitz_Helm,Costume Schmitz Helm,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,634,{},{},{}
 20394,C_Pumpkin_Toque,Costume Pumpkin Toque,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,1411,{},{},{}
-//-20395
+20395,Chapéu_da_Bruxa_Sombria,Chapéu da Bruxa Sombria,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,1006,{},{},{}
 20396,C_Green_Hat,Costume Green Hat,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,939,{},{},{}
 20397,Jack,Jack,4,0,,0,,,,0,0xFFFFFFFF,63,2,6144,,1,0,1415,{},{},{}
 20398,C_Niffleheim_Bunny_Hat,Costume Niffleheim Bunny Hat,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,1285,{},{},{}
@@ -15439,7 +15439,7 @@
 28430,Ring_of_Archpriest,Ring_of_Archpriest,4,100,,100,,0,,0,0xFFFFFFFF,63,2,136,,90,0,0,{ bonus bLuk,2; bonus bFlee2,5; bonus bUseSPrate,-5; bonus bHealPower,15; bonus bHealPower2,15; },{},{}
 28431,Sprint_Ring_,Sprint Ring,4,0,,100,,0,,1,0x00CFFF80,18,2,136,,1,0,0,{ bonus bVariableCastrate,-10; bonus bDelayrate,5; },{},{}
 //-28432
-//-28433
+28433,Cristal_da_Luz_Azul,Cristal da Luz Azul,4,0,,40,,0,,1,0xFFFFFFFF,63,2,136,,90,0,0,{ bonus bCritical,5; bonus bCritAtkRate,2; bonus bAspdRate,5; skill "MG_SIGHT",1; if(readParam(bLuk)>=100) { bonus bCritical,10; bonus bCritAtkRate,10; } },{},{}
 28434,Luvas_do_Pugilista,Luvas do Pugilista,4,0,,40,,0,,1,0xFFFFFFFF,63,2,136,,90,0,0,{ bonus bStr,2; bonus bMaxSP,100; bonus2 bAddRace,RC_ALL,2; skill "MO_ABSORBSPIRITS",1; if(readparam(bStr)>=100){ bonus2 bAddRace,RC_ALL,5; }},{},{}
 //-28435
 //-28436
@@ -16148,6 +16148,7 @@
 31105,C_RO_Celebration_Hat,Costume RO Celebration Hat,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,1541,{},{},{}
 31106,C_Eyepatch_of_Peace,Costume Eyepatch of Peace,4,0,,0,,,,0,0xFFFFFFFF,63,2,2048,,1,0,697,{},{},{}
 31107,C_Eyepatch_of_Prosperity,Costume Eyepatch of Prosperity,4,0,,0,,,,0,0xFFFFFFFF,63,2,2048,,1,0,698,{},{},{}
+31112,Balão_de_Fala_Hue,Balão de Fala Hue,4,0,,0,,,,0,0xFFFFFFFF,63,2,2048,,1,0,698,{},{},{}
 31113,C_Doctor_Headband,Costume Doctor headband,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,60,{},{},{}
 31114,C_Theater_Prop,Costume Theater Prop,4,0,,0,,,,0,0xFFFFFFFF,63,2,1024,,1,0,80,{},{},{}
 31117,C_Hoplite_Helmet,Costume Hoplite Helmet,4,0,,0,,,,0,0xFFFFFFFF,63,2,7168,,1,0,660,{},{},{}

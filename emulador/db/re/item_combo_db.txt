@@ -759,6 +759,8 @@
 28430:4850,{ bonus bLuk,2; bonus bFlee2,5; bonus bHealPower,3; bonus bUseSPrate,-5; bonus2 bSkillCooldown,AB_HIGHNESSHE,-1000;  }
 28430:4804,{ bonus bLuk,2; bonus bFlee2,5; bonus bHealPower,3; bonus bUseSPrate,-5; bonus2 bVariableCastrate,AB_CHEAL,-100; bonus2 bSkillUseSP,AB_CHEAL,20; }
 28430:4803,{ bonus bLuk,2; bonus bFlee2,5; bonus bHealPower,3; bonus bUseSPrate,-5; bonus2 bVariableCastrate,AB_EPICLESIS,-100; bonus2 bSkillCooldown,AB_EPICLESIS,-10000; }
+28433:4817,{ bonus bCritAtkRate,10; }
+28433:4818,{ bonus bCritAtkRate,10; }
 28434:4811,{ bonus bMaxSP,100; bonus2 bAddRace,RC_ALL,5; }
 28434:4810,{ bonus bMaxSP,100; bonus2 bAddRace,RC_ALL,5;  }
 28499:28920,{ bonus bFlee2,10; }
